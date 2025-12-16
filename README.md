@@ -13,11 +13,11 @@
 
 | Name | Matric No. | GitHub Username | Role |
 |------|------------|-----------------|------|
-| Ryan Chin Jian Hwa | | 23005233 | | @wrynaft | |
-| Liew Jin Sze | | 23005226 | | @jinsze | |
-| Kueh Pang Lang | | 23005227 | | @pang-lang | |
-| Koay Khoon Lyn | | 23005235 | | @khoonlyn913 | |
-| Maxwell Jared Daniel | | 22002648 | | @oatmeal2211 | |
+| Ryan Chin Jian Hwa | 23005233 | @wrynaft | Model Evaluation |
+| Liew Jin Sze | 23005226 | @jinsze | Data Modelling |
+| Kueh Pang Lang | 23005227 | @pang-lang | EDA |
+| Koay Khoon Lyn | 23005235 | @khoonlyn913 | Dataset Simulation |
+| Maxwell Jared Daniel | 22002648 | @oatmeal2211 | Feature Engineering |
 
 ---
 
