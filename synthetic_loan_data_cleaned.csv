@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_Name,Application_Date,Annual_Income,Credit_Score,Loan_Amount,Loan_Purpose_Text,Risk_Analyst_Note,Default_Status
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45000.0,580,42500.5,Debt Consolidation,High risk due to low credit score and large loan amount.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Michael Williams,2024-01-20,155000.75,790,25000.0,Home Improvement,Low risk profile with strong credit history.,0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Mary Johnson,2022-11-01,82000.0,695,15000.0,Car Purchase,"Standard application, requires routine checks.",0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,David Brown,2023-09-10,38000.5,510,8000.0,Medical Expenses,High risk due to low credit score.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Patricia Jones,2024-03-22,120000.0,720,48000.0,Business Investment,Large loan amount requires further review.,0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Robert Garcia,2023-02-18,65000.0,640,35000.0,Major Purchase,"Standard application, requires routine checks.",0
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Linda Miller,2022-12-30,95000.0,710,45000.0,Debt Consolidation,Large loan amount requires further review.,1
+b8c9d0e1-f2a3-4567-8901-cdef12345678,William Davis,2023-08-05,210000.0,820,50000.0,Home Improvement,Low risk profile despite large loan amount.,0
+c9d0e1f2-a3b4-5678-9012-def123456789,Elizabeth Rodriguez,2024-04-11,31000.0,450,5500.0,Emergency Fund,High risk due to very low credit score.,1
+d0e1f2a3-b4c5-6789-0123-ef1234567890,Richard Martinez,2023-07-25,78000.0,680,22000.0,Vacation,"Standard application, requires routine checks.",0
+e1f2a3b4-c5d6-7890-1234-f1234567890a,Susan Hernandez,2023-10-02,52000.0,610,18000.0,Car Purchase,"Borderline credit score, proceed with caution.",0
+f2a3b4c5-d6e7-8901-2345-1234567890ab,Joseph Lopez,2024-02-14,41000.0,595,39000.0,Debt Consolidation,High risk due to low credit score.,1
+a3b4c5d6-e7f8-9012-3456-234567890abc,Jessica Gonzalez,2023-01-09,180000.0,760,49500.0,Business Investment,Large loan amount but strong income and credit.,0
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Thomas Wilson,2023-11-19,88000.0,705,12000.0,Home Improvement,"Standard application, requires routine checks.",0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,Sarah Anderson,2022-10-28,61000.0,630,41000.0,Major Purchase,Large loan amount requires further review.,1
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Charles Thomas,2024-05-01,250000.0,850,30000.0,Vacation,Excellent credit and income profile.,0
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Karen Taylor,2023-06-12,59000.0,605,28000.0,Medical Expenses,"Standard application, requires routine checks.",0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Daniel Moore,2022-09-05,72000.0,550,33000.0,Debt Consolidation,High risk due to low credit score.,1
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Nancy Jackson,2023-04-30,115000.0,730,7500.0,Car Purchase,"Standard application, requires routine checks.",0
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,James Martin,2024-03-01,99000.0,660,46000.0,Business Investment,Large loan amount requires further review.,0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Jennifer Smith,2023-05-15,85200.75,680,25000.0,Debt consolidation,"Moderate risk, proceed with caution.",0
+f0e9d8c7-b6a5-4f3e-2d1c-0b9a8f7e6d5c,Michael Williams,2022-11-21,42500.5,590,15000.0,Medical expenses,Low credit score suggests high risk.,1
+1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5e,Mary Johnson,2024-01-10,125000.0,760,45000.0,Home improvement,Loan amount is high but income supports it.,0
+6f5e4d3c-2b1a-4f9e-8d7c-6b5a4f3e2d1c,David Brown,2023-08-02,61000.25,640,48000.0,Business investment,High loan amount poses a significant risk.,1
+7a8b9c0d-1e2f-4a3b-2c1d-0e9f8a7b6c5d,Patricia Jones,2023-03-30,155000.0,810,30000.0,Major purchase,"Strong financial profile, recommend approval.",0
+d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a,Robert Garcia,2022-09-18,38000.0,550,8000.0,Car financing,"High risk of default, recommend denial.",1
+c6b5a4f3-e2d1-4c0b-9a8f-7e6d5c4b3a2f,Linda Miller,2024-04-05,95000.8,710,22000.0,Debt consolidation,Applicant shows excellent credit history.,0
+3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f,William Davis,2023-12-12,72000.0,665,35000.0,Home improvement,"Credit score is borderline, but income is stable.",0
+8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c,Elizabeth Rodriguez,2023-06-25,48000.9,610,49500.0,Business investment,Loan amount is very high compared to income.,1
+4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a,Joseph Martinez,2022-10-01,180000.0,830,50000.0,Major purchase,Income well supports the requested loan amount.,0
+b3c4d5e6-f7a8-4b9c-d0e1-f2a3b4c5d6e7,Susan Hernandez,2024-02-14,53000.0,625,18000.0,Vacation,Further documentation may be required.,0
+9a0b1c2d-3e4f-4a5b-6c7d-8e9f0a1b2c3d,Richard Lopez,2023-07-07,33000.0,450,12000.0,Medical expenses,Poor credit history and low income.,1
+5e6f7a8b-9c0d-4e1f-2a3b-4c5d6e7f8a9b,Jessica Gonzalez,2023-11-08,110000.0,740,42000.0,Home improvement,"High loan amount, but strong credit profile.",0
+a0b1c2d3-e4f5-4a6b-7c8d-9e0f1a2b3c4d,James Wilson,2022-12-24,78000.5,690,28000.0,Debt consolidation,"Stable applicant, recommend for approval.",0
+f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c,Barbara Anderson,2024-03-19,41000.0,595,20000.0,Car financing,"Credit score below threshold, high risk.",1
+2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e,John Thomas,2023-09-05,195000.0,845,15000.0,Vacation,"Excellent candidate, minimal risk.",0
+e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b,Daniel Moore,2023-02-28,68000.0,630,46000.0,Business investment,Loan amount is substantial compared to income.,1
+c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f,Sarah Taylor,2022-08-11,92000.0,720,10000.0,Medical expenses,Solid applicant with a clear repayment path.,0
+3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a,Matthew Martin,2024-05-01,55000.0,580,25000.0,Debt consolidation,High risk profile due to low credit score.,1
+b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e,Karen White,2023-10-16,135000.0,790,49000.0,Home improvement,Strong profile but loan amount is at the upper limit.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-10-26,45000.75,580,38500.5,Debt consolidation,Applicant has a high debt-to-income ratio.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Michael Johnson,2024-01-15,152000.0,790,25000.0,Home improvement,"Strong credit history, low risk.",0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Mary Williams,2022-11-05,85000.5,695,48000.0,Major purchase,"Large loan amount requested, requires further review.",1
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Robert Jones,2023-08-20,210000.0,820,15000.0,Car financing,"Strong credit history, low risk.",0
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Patricia Brown,2022-06-30,35000.25,450,10000.0,Medical expenses,Applicant has a poor credit history.,1
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,John Davis,2024-03-12,95000.0,710,30000.0,Business loan,Solid applicant with stable income.,0
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Linda Miller,2023-05-18,62000.0,640,42500.0,Debt consolidation,Large loan amount relative to income.,1
+b8c9d0e1-f2a3-4567-8901-cdef12345678,William Garcia,2022-09-01,110000.0,730,20000.0,Vacation,"Standard application, meets initial criteria.",0
+c9d0e1f2-a3b4-5678-9012-def123456789,Elizabeth Rodriguez,2023-12-03,41000.0,595,49000.0,Home improvement,High risk profile with multiple red flags.,1
+d0e1f2a3-b4c5-6789-0123-ef1234567890,David Martinez,2024-02-28,75000.0,680,18000.0,Car financing,Solid applicant with stable income.,0
+e1f2a3b4-c5d6-7890-1234-f1234567890a,Barbara Hernandez,2022-07-11,185000.0,785,45000.0,Major purchase,"Large loan amount requested, but strong income.",0
+f2a3b4c5-d6e7-8901-2345-1234567890ab,Richard Lopez,2023-04-09,32000.0,510,8000.0,Medical expenses,Low income and poor credit history.,1
+a3b4c5d6-e7f8-9012-3456-234567890abc,Susan Gonzalez,2022-12-25,68000.0,660,22000.0,Debt consolidation,"Standard application, meets initial criteria.",0
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Joseph Wilson,2024-04-01,125000.0,740,35000.0,Business loan,Solid applicant with stable income.,0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,Jessica Anderson,2023-02-14,51000.0,610,15500.0,Home improvement,"Borderline credit score, proceed with caution.",0
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Charles Thomas,2023-11-30,225000.0,835,49500.0,Major purchase,Excellent credit profile supports the large loan amount.,0
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Sarah Taylor,2022-08-08,48500.0,605,12000.0,Car financing,"Standard application, meets initial criteria.",0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Thomas Moore,2024-05-01,72000.0,630,41000.0,Debt consolidation,High debt-to-income ratio with this new loan.,1
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Karen Jackson,2023-07-22,99000.0,725,28000.0,Vacation,Solid applicant with stable income.,0
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,James Martin,2022-10-10,38000.0,555,9500.0,Medical expenses,Applicant has a high debt-to-income ratio.,1
+e9c3b2f7-8d1a-4b6f-8c3e-0a9f8b7d6c5e,Jennifer Williams,2023-05-15,42500.5,585,38750.25,Debt Consolidation,"Applicant has a fair credit score, requires careful consideration.",1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Michael Smith,2024-01-20,125000.0,780,25000.0,Home Improvement,"Strong credit profile and low DTI, recommended for approval.",0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Sarah Jones,2022-11-10,65000.75,640,45500.0,Car Purchase,Loan amount is high relative to standard limits.,1
+12345678-90ab-cdef-0123-456789abcdef,David Garcia,2023-08-01,38000.0,550,15000.0,Medical Expenses,"Applicant has a poor credit history, posing a significant risk.",1
+fedcba98-7654-3210-fedc-ba9876543210,Linda Brown,2024-03-05,180000.0,820,48000.5,Business Startup,Loan amount is high relative to standard limits.,0
+a2b3c4d5-e6f7-8901-2345-67890abcdef1,Robert Davis,2023-02-28,72000.0,685,22000.0,Major Purchase,"Standard risk profile, requires further review.",0
+b3c4d5e6-f7g8-9012-3456-7890abcdef12,Patricia Miller,2022-09-18,51000.0,610,35000.0,Debt Consolidation,High debt-to-income ratio is a major concern.,0
+c4d5e6f7-g8h9-0123-4567-890abcdef123,James Rodriguez,2024-04-12,95000.0,710,10000.0,Vacation,"Standard risk profile, requires further review.",0
+d5e6f7g8-h9i0-1234-5678-90abcdef1234,Mary Martinez,2023-10-30,32000.2,490,28000.0,Medical Expenses,"Applicant has a poor credit history, posing a significant risk.",1
+e6f7g8h9-i0j1-2345-6789-0abcdef12345,John Hernandez,2023-07-22,145000.0,795,49500.0,Home Improvement,Loan amount is high relative to standard limits.,1
+f7g8h9i0-j1k2-3456-7890-abcdef123456,Elizabeth Lopez,2024-02-14,88000.0,720,18000.0,Car Purchase,"Standard risk profile, requires further review.",0
+g8h9i0j1-k2l3-4567-8901-bcdef1234567,William Gonzalez,2022-12-25,48000.0,595,41000.0,Debt Consolidation,High debt-to-income ratio is a major concern.,1
+h9i0j1k2-l3m4-5678-9012-cdef12345678,Susan Wilson,2023-06-11,195000.0,835,30000.0,Major Purchase,"Strong credit profile and low DTI, recommended for approval.",0
+i0j1k2l3-m4n5-6789-0123-def123456789,Joseph Anderson,2024-05-01,61000.0,655,12500.0,Education Expenses,"Standard risk profile, requires further review.",0
+j1k2l3m4-n5o6-7890-1234-ef1234567890,Jessica Thomas,2023-03-19,55000.0,630,42000.0,Business Startup,Loan amount is high relative to standard limits.,1
+k2l3m4n5-o6p7-8901-2345-f12345678901,Thomas Taylor,2023-11-02,110000.0,740,40000.0,Home Improvement,"Standard risk profile, requires further review.",0
+l3m4n5o6-p7q8-9012-3456-123456789012,Karen Moore,2022-10-08,41000.0,570,20000.0,Debt Consolidation,"Applicant has a poor credit history, posing a significant risk.",1
+m4n5o6p7-q8r9-0123-4567-234567890123,Charles Jackson,2024-01-09,78000.0,690,39000.0,Car Purchase,High debt-to-income ratio is a major concern.,0
+n5o6p7q8-r9s0-1234-5678-345678901234,Nancy Martin,2023-09-05,160000.0,810,49999.0,Major Purchase,Loan amount is high relative to standard limits.,0
+o6p7q8r9-s0t1-2345-6789-456789012345,Richard Lee,2023-12-12,59000.0,605,8000.0,Moving Expenses,"Standard risk profile, requires further review.",0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-11-20,145200.75,785,38500.2,Home Improvement,Applicant has a strong credit history.,0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Smith,2022-08-15,42500.5,580,12000.0,Debt Consolidation,Credit history has some recent delinquencies.,1
+12345678-90ab-cdef-0123-456789abcdef,Linda Jones,2024-01-10,89000.0,710,45000.99,Car Purchase,Loan amount is high relative to income.,1
+fedcba98-7654-3210-fedc-ba9876543210,Robert Garcia,2023-03-05,65000.0,660,22000.0,Major Purchase,Stable income and low debt-to-income ratio.,0
+abcdef01-2345-6789-abcd-ef0123456789,Patricia Brown,2022-12-01,38000.8,520,8000.0,Medical Expenses,High debt-to-income ratio is a concern.,1
+98765432-10fe-dcba-9876-543210fedcba,James Miller,2023-09-22,210000.0,820,49000.5,Business Loan,Loan amount is high relative to income.,0
+5a4b3c2d-1e0f-9a8b-7c6d-5e4f3c2d1e0f,Mary Davis,2024-02-18,72000.25,695,15000.0,Vacation,Verified employment and income.,0
+e1f2a3b4-c5d6-7890-e1f2-a3b4c5d67890,John Rodriguez,2022-06-30,49500.0,610,18000.0,Debt Consolidation,Recent credit inquiries raise a red flag.,0
+b4c3d2e1-f6a5-4321-b4c3-d2e1f6a54321,William Martinez,2023-07-14,180000.0,790,30000.0,Home Improvement,Long history of on-time payments.,0
+d2e1f6a5-4321-b4c3-d2e1-f6a54321b4c3,Elizabeth Hernandez,2022-10-05,31000.0,450,5500.0,Medical Expenses,Short credit history.,1
+c3d2e1f6-a543-21b4-c3d2-e1f6a54321b4,David Lopez,2023-01-25,95000.5,730,41000.0,Car Purchase,Loan amount is high relative to income.,1
+e1f6a543-21b4-c3d2-e1f6-a54321b4c3d2,Barbara Gonzalez,2024-03-01,58000.0,640,25000.0,Major Purchase,Stable income and low debt-to-income ratio.,0
+f6a54321-b4c3-d2e1-f6a5-4321b4c3d2e1,Richard Wilson,2022-07-19,115000.0,755,35000.0,Business Loan,Applicant has a strong credit history.,0
+a54321b4-c3d2-e1f6-a543-21b4c3d2e1f6,Susan Anderson,2023-05-11,46000.7,595,10000.0,Debt Consolidation,Credit history has some recent delinquencies.,1
+b4c3d2e1-f6a5-4321-0987-654321fedcba,Joseph Thomas,2022-11-28,78000.0,680,28000.0,Wedding Expenses,Verified employment and income.,0
+c3d2e1f6-a543-21b4-fedc-ba9876543210,Jessica Taylor,2024-04-02,130000.0,770,48000.0,Home Improvement,Loan amount is high relative to income.,0
+d2e1f6a5-4321-b4c3-1234-567890abcdef,Thomas Moore,2023-08-08,33000.0,490,7500.0,Education,High debt-to-income ratio is a concern.,1
+e1f6a543-21b4-c3d2-abcd-ef0123456789,Sarah Jackson,2022-09-17,99000.9,740,39000.0,Car Purchase,Long history of on-time payments.,0
+f6a54321-b4c3-d2e1-5a4b-3c2d1e0f9a8b,Charles Martin,2023-12-30,61000.0,625,19000.0,Debt Consolidation,Stable income and low debt-to-income ratio.,0
+a54321b4-c3d2-e1f6-e1f2-a3b4c5d67890,Karen Garcia,2024-02-25,41000.0,550,11500.0,Major Purchase,Credit history has some recent delinquencies.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-05-15,85240.5,720,25000.0,Debt Consolidation,"Standard application, no immediate red flags.",0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Smith,2022-11-20,45100.75,580,38500.0,Business Investment,Low credit score and high LTI are major concerns.,1
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,Linda Brown,2024-01-05,155000.0,810,48000.0,Home Improvement,Loan amount is high but supported by strong income.,0
+9z8y7x6w-5v4u-3t2s-1r0q-p9o8n7m6l5k4,Robert Jones,2023-08-11,62300.2,640,45000.0,Car Purchase,High loan-to-income ratio requires review.,1
+cde321ab-4567-890f-ghij-klmno1234567,Patricia Garcia,2022-09-30,38450.0,450,15000.0,Medical Expenses,Low credit score is a primary concern.,1
+89012345-abcd-efab-cdef-0123456789ab,David Miller,2024-03-22,198750.8,835,22000.0,Vacation,Applicant presents a very low-risk profile.,0
+fedcba98-7654-3210-fedc-ba9876543210,Mary Davis,2023-02-18,75600.0,690,18000.0,Major Purchase,"Standard application, no immediate red flags.",0
+01234567-89ab-cdef-0123-456789abcdef,James Rodriguez,2022-12-25,51200.0,615,41500.0,Debt Consolidation,High loan-to-income ratio requires review.,1
+abcdef01-2345-6789-abcd-ef0123456789,Susan Martinez,2023-10-01,42000.0,595,39000.0,Business Investment,Low credit score and high LTI are major concerns.,1
+f1e2d3c4-b5a6-9876-5432-10fedcba9876,William Hernandez,2024-04-10,125000.0,780,30000.0,Home Improvement,Applicant presents a very low-risk profile.,0
+11223344-5566-7788-99aa-bbccddeeff00,Elizabeth Lopez,2023-07-07,95400.5,740,12000.0,Education,"Standard application, no immediate red flags.",0
+aabbccdd-eeff-0011-2233-445566778899,Joseph Gonzalez,2022-08-19,33500.0,540,29000.0,Medical Expenses,Low credit score and high LTI are major concerns.,1
+ffeeddcc-bbaa-9988-7766-554433221100,,2023-11-11,175800.0,795,49500.0,Home Improvement,Loan amount is high but supported by strong income.,0
+1234abcd-5678-efab-cdef-9012ghij3456,Thomas Anderson,2024-02-28,68900.0,660,20000.0,Car Purchase,"Standard application, no immediate red flags.",0
+55aa66bb-77cc-88dd-99ee-ff0011223344,Sarah Thomas,2023-01-20,49500.0,630,24000.0,Debt Consolidation,"Standard application, no immediate red flags.",0
+b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6,Charles Taylor,2022-10-15,81000.0,685,43000.0,Business Investment,High loan-to-income ratio requires review.,1
+6e5d4c3b-2a1f-0e9d-8c7b-6a5f4e3d2c1b,Karen Moore,2023-09-05,39800.0,510,35000.0,Major Purchase,Low credit score and high LTI are major concerns.,1
+78901234-5678-9012-3456-789012345678,Richard Jackson,2024-05-01,220500.0,845,49900.0,Home Improvement,Loan amount is high but supported by strong income.,0
+43210987-6543-2109-8765-432109876543,Barbara Martin,2023-06-12,105000.0,760,9500.0,Vacation,"Standard application, no immediate red flags.",0
+fedcba09-8765-4321-fedc-ba0987654321,John Johnson,2022-07-29,58000.0,625,46500.0,Car Purchase,High loan-to-income ratio requires review.,1
+f47ac10b-58cc-4372-a567-0e02b2c3d479,James Smith,2023-05-15,75450.5,685,25000.0,Debt Consolidation,Applicant meets standard lending criteria.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Maria Garcia,2022-11-20,42100.0,590,15500.75,Car Financing,High-risk profile due to low credit score.,1
+8f8b8e8b-8888-4888-b888-8e8b8e8b8e8b,John Williams,2024-01-05,125000.0,780,48500.0,Home Improvement,"Strong credit profile, but loan amount is high.",1
+c2d3e4f5-a6b7-8c9d-0e1f-2a3b4c5d6e7f,Patricia Jones,2023-08-01,95000.25,710,30000.0,Business Loan,Applicant meets standard lending criteria.,0
+123e4567-e89b-12d3-a456-426614174000,Robert Brown,2022-09-11,38500.0,615,10000.0,Medical Expenses,"Borderline applicant, requires further review.",0
+a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11,Jennifer Davis,2024-03-22,180000.0,810,49999.0,Major Purchase,Strong credit profile and stable income.,0
+a1b2c3d4-a1b2-c3d4-e5f6-a1b2c3d4e5f6,Michael Miller,2023-02-18,41500.8,545,21000.0,Debt Consolidation,High-risk profile due to low credit score.,1
+f0e1d2c3-b4a5-6789-0123-abcdef012345,Linda Wilson,2023-12-30,65000.0,640,46000.0,Home Improvement,Borderline applicant with a high loan request.,1
+98765432-1fed-cba9-8765-43210fedcba9,William Moore,2022-07-11,210000.0,830,49500.0,Business Loan,"Excellent profile, mitigates risk of large loan.",0
+b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6,Elizabeth Taylor,2024-04-01,55000.0,690,12000.0,Vacation,Applicant meets standard lending criteria.,0
+a2b3c4d5-e6f7-a8b9-c0d1-e2f3a4b5c6d7,David Anderson,2023-10-09,88000.0,720,35000.0,Car Financing,Applicant meets standard lending criteria.,0
+f9e8d7c6-b5a4-3210-fedc-ba9876543210,Barbara Thomas,2022-08-25,31000.0,520,8000.0,Medical Expenses,High-risk profile due to low credit score.,1
+00112233-4455-6677-8899-aabbccddeeff,Richard Jackson,2023-06-14,180000.0,790,47000.0,Major Purchase,Strong credit profile but high loan amount requested.,1
+e7f6a5b4-c3d2-e1f0-a9b8-c7d6e5f4a3b2,Susan White,2024-02-28,62000.0,660,22000.0,Debt Consolidation,Applicant meets standard lending criteria.,0
+d1c2b3a4-e5f6-a7b8-c9d0-e1f2a3b4c5d6,Joseph Harris,2023-03-03,71000.0,630,38000.0,Home Improvement,"Borderline applicant, requires further review.",0
+a1b1c1d1-e1f1-a1b1-c1d1-e1f1a1b1c1d1,Jessica Martin,2022-12-12,48000.0,585,25000.0,Business Loan,High-risk profile due to low credit score.,1
+a0b1c2d3-e4f5-a6b7-c8d9-e0f1a2b3c4d5,Daniel Thompson,2023-09-21,115000.0,740,15000.0,Vacation,Applicant meets standard lending criteria.,0
+f8e7d6c5-b4a3-f2e1-d0c9-b8a7f6e5d4c3,Sarah Martinez,2024-05-01,39000.0,625,9000.0,Car Financing,"Borderline applicant, requires further review.",0
+d4c3b2a1-f0e9-d8c7-b6a5-f4e3d2c1b0a9,Matthew Robinson,2023-07-07,92000.0,605,49000.0,Debt Consolidation,Borderline applicant with high loan request.,1
+cba98765-4321-fedc-ba98-76543210fedc,Karen Clark,2022-10-15,135000.0,760,28000.0,Home Improvement,Strong credit profile and stable income.,0
+e9a2c1b4-7f3d-4c8e-9b1a-5d6f7c8d9e0f,Jennifer Smith,2023-04-12,45500.75,585,25000.0,Debt Consolidation,High risk due to low credit score.,1
+a1b3c2d4-8e4f-4d9f-8a2b-6e7f8c9d0e1a,Michael Williams,2024-01-20,125000.0,790,30000.0,Home Improvement,Applicant shows strong financial stability.,0
+f8d7c6b5-9a5e-4c0a-b3d2-1e2f3a4b5c6d,Linda Brown,2022-11-05,72000.5,670,48000.0,Car Purchase,Loan amount is high relative to income.,1
+c4b5d6e7-0f6a-4b1c-8d3e-2f3a4b5c6d7e,David Jones,2023-08-22,89000.0,710,15000.0,Medical Expenses,"Borderline credit score, proceed with caution.",0
+b3c4d5e6-1a7b-4c2d-9e4f-3a4b5c6d7e8f,Susan Garcia,2023-02-18,38000.0,550,10000.0,Major Purchase,High risk due to low credit score.,1
+a2b3c4d5-2b8c-4d3e-a5f0-4b5c6d7e8f9a,Joseph Miller,2024-03-01,180000.0,820,45000.0,Business Loan,Loan amount is high relative to income.,1
+f9e8d7c6-3c9d-4e4f-b6a1-5c6d7e8f9a0b,Sarah Davis,2022-09-30,95000.25,740,22000.0,Vacation,"Low risk profile, recommend approval.",0
+d6c5b4a3-4dae-4f5a-c7b2-6d7e8f9a0b1c,Charles Rodriguez,2023-07-11,65000.0,640,35000.0,Debt Consolidation,Income to debt ratio is a slight concern.,0
+c5b4a3d2-5ebf-4a6b-d8c3-7e8f9a0b1c2d,Karen Martinez,2023-12-01,42000.0,610,8000.0,Education,"Borderline credit score, proceed with caution.",0
+b4a3d2c1-6fc0-4b7c-e9d4-8f9a0b1c2d3e,Thomas Hernandez,2022-07-25,210000.0,850,50000.0,Home Improvement,Loan amount is high relative to income.,0
+a3d2c1b0-7ad1-4c8d-fae5-9a0b1c2d3e4f,James Wilson,2023-10-14,53000.8,630,41000.0,Car Purchase,Loan amount is high relative to income.,1
+f0e9d8c7-8be2-4d9e-0bf6-a0b1c2d3e4f5,Mary Anderson,2024-02-09,68000.0,690,12500.0,Medical Expenses,Meets all primary lending criteria.,0
+e9d8c7b6-9cf3-4ea0-1ca7-b1c2d3e4f5a6,John Taylor,2022-08-19,31000.0,450,5500.0,Major Purchase,High risk due to low credit score.,1
+d8c7b6a5-ad04-4fb1-2db8-c2d3e4f5a6b7,Patricia Moore,2023-06-05,155000.0,760,39000.0,Business Loan,Solid credit history and income.,0
+c7b6a594-be15-40c2-3ec9-d3e4f5a6b7c8,Robert Jackson,2023-11-28,82000.9,680,28000.0,Debt Consolidation,Meets all primary lending criteria.,0
+b6a59483-cf26-41d3-4fda-e4f5a6b7c8d9,William Martin,2022-12-12,49000.0,595,18000.0,Home Improvement,High risk due to low credit score.,1
+a5948372-df37-42e4-50eb-f5a6b7c8d9ea,Elizabeth Thompson,2024-04-01,110000.0,725,42500.0,Car Purchase,Loan amount is high relative to income.,1
+94837261-e048-43f5-61fc-a6b7c8d9eabf,Richard White,2023-03-20,76000.0,700,20000.0,Vacation,Meets all primary lending criteria.,0
+83726150-f159-4406-720d-b7c8d9eabfcd,Barbara Harris,2022-10-08,35000.0,520,9500.0,Medical Expenses,High risk due to low credit score.,1
+7261504f-026a-4517-831e-c8d9eabfcde0,Jessica Clark,2023-09-15,98000.0,730,49500.0,Debt Consolidation,Loan amount is high relative to income.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Olivia Smith,2023-10-26,55000.75,640,25000.0,Debt Consolidation,"Standard risk profile, income to debt ratio is acceptable.",0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Liam Johnson,2022-11-15,42000.5,580,38000.0,Home Improvement,Low credit score presents a significant repayment risk.,1
+12345678-90ab-cdef-0123-456789abcdef,Emma Williams,2024-01-20,120000.0,780,45000.0,Major Purchase,Loan amount is high relative to applicant's annual income.,1
+abcdef12-3456-7890-abcd-ef1234567890,Noah Brown,2023-05-08,85000.0,710,15000.0,Car Financing,Applicant shows strong financial stability and high creditworthiness.,0
+fedcba98-7654-3210-fedc-ba9876543210,Amelia Jones,2023-08-19,38000.0,510,49000.5,Business Loan,High-risk profile due to low credit score and large loan amount.,1
+01234567-89ab-cdef-0123-456789abcdef,Oliver Garcia,2024-03-01,150000.25,820,30000.0,Medical Expenses,Excellent credit history and stable income source.,0
+98765432-10fe-dcba-9876-543210fedcba,Ava Miller,2022-09-30,62000.0,670,22000.0,Debt Consolidation,"Standard risk profile, income to debt ratio is acceptable.",0
+aabbccdd-eeff-0011-2233-445566778899,Elijah Davis,2023-12-12,78000.0,690,41000.0,Home Improvement,Loan amount is high relative to applicant's annual income.,0
+ffeeddcc-bbaa-9988-7766-554433221100,Sophia Rodriguez,2024-02-28,31000.0,450,8000.0,Major Purchase,"Credit score below threshold, poses significant default risk.",1
+11223344-5566-7788-99aa-bbccddeeff00,Mateo Martinez,2023-07-04,95000.8,750,35000.0,Car Financing,Applicant shows strong financial stability and high creditworthiness.,0
+d4e5f6a1-b2c3-4d5e-f6a1-b2c3d4e5f6a1,Isabella Hernandez,2023-03-22,48000.0,610,10000.0,Vacation,"Standard risk profile, income to debt ratio is acceptable.",0
+c3b2a1f6-e5d4-c3b2-a1f6-e5d4c3b2a1f6,Lucas Lopez,2022-12-25,180000.0,810,50000.0,Business Loan,High income and credit score mitigate risk of large loan amount.,0
+a1f6e5d4-c3b2-a1f6-e5d4-c3b2a1f6e5d4,Mia Gonzalez,2024-04-10,59000.0,595,28000.0,Medical Expenses,Borderline credit score requires careful consideration.,1
+10293847-56af-bead-c861-d92736485bca,James Wilson,2023-06-18,72000.0,680,43000.0,Debt Consolidation,Loan amount is high relative to applicant's annual income.,1
+e8d7c6b5-a493-8271-605f-4e3d2c1b0a98,Charlotte Moore,2023-11-05,210000.0,850,49500.0,Home Improvement,Applicant shows strong financial stability and high creditworthiness.,0
+f9e8d7c6-b5a4-9382-7160-5f4e3d2c1b0a,Benjamin Taylor,2022-08-01,41000.0,605,7500.0,Major Purchase,Stable employment but limited credit history.,0
+a0b1c2d3-e4f5-a6b7-c8d9-e0f1a2b3c4d5,Harper Anderson,2023-09-14,68000.0,660,33000.0,Car Financing,"Standard risk profile, income to debt ratio is acceptable.",0
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,Evelyn Thomas,2024-05-02,33000.0,520,12000.0,Medical Expenses,Low credit score presents a significant repayment risk.,1
+b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6,William Jackson,2023-02-17,115000.0,730,47000.0,Business Loan,"High loan amount requested, but income supports it.",0
+c2d3e4f5-a6b7-c8d9-e0f1-a2b3c4d5e6f7,Abigail White,2022-10-10,88000.0,700,20000.0,Debt Consolidation,Applicant shows strong financial stability and high creditworthiness.,0
+f47ac10b-58cc-4372-a567-0e02b2c3d479,Amelia Chen,2023-05-15,85240.5,710,25000.0,Debt Consolidation,Applicant has a solid credit history.,0
+6ba7b810-9dad-11d1-80b4-00c04fd430c8,Benjamin Carter,2022-11-20,42500.0,580,18000.0,Car Purchase,Low credit score is a significant risk factor.,1
+123e4567-e89b-12d3-a456-426614174000,Chloe Davis,2024-01-08,175600.75,820,48500.0,Home Improvement,High loan amount relative to standard limits.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,David Rodriguez,2023-09-01,98000.0,745,15000.0,Medical Expenses,"Standard risk profile, proceeding with review.",0
+98765432-10fe-dcba-9876-543210fedcba,Eleanor Evans,2022-07-22,38900.2,510,9500.0,Major Purchase,Low credit score presents a significant risk.,1
+e0b3c4d5-a6f7-8901-2345-67890abcdef1,Felix Garcia,2024-03-12,145000.0,790,45000.0,Business Investment,Loan amount is high but justified by income.,0
+f1a2b3c4-d5e6-7890-1234-567890abcdef2,Grace Hernandez,2023-02-28,68500.0,660,32000.0,Debt Consolidation,Standard risk profile with stable income.,0
+0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a,Henry Johnson,2022-08-19,220000.0,840,38000.0,Home Improvement,Applicant has an excellent credit history.,0
+cba98765-4321-fedc-ba98-76543210fedc,Isabella Kim,2023-11-05,53000.0,595,21000.0,Car Purchase,Borderline credit score requires manual review.,1
+5a4b3c2d-1e0f-9a8b-7c6d-5e4f3a2b1c0d,Jack Lee,2024-04-02,91000.0,720,43000.0,Debt Consolidation,High loan amount is the primary risk factor.,1
+8f7e6d5c-4b3a-2b1c-0d9e-8f7e6d5c4b3a,Katherine Miller,2023-01-18,48000.0,620,24000.0,Education,Income is stable but on the lower end.,0
+1c0b9a8f-7e6d-5c4b-3a2b-1c0b9a8f7e6d,Liam Nguyen,2022-12-10,162000.0,785,49800.0,Business Investment,Loan is at the maximum limit; requires caution.,1
+4b3a2b1c-0d9e-8f7e-6d5c-4b3a2b1c0d9e,,2023-06-25,31500.0,420,6000.0,Medical Expenses,Very low credit score indicates high default risk.,1
+7e6d5c4b-3a2b-1c0b-9a8f-7e6d5c4b3a2b,Noah Patel,2024-02-14,115000.0,750,18000.0,Vacation,Excellent credit and low loan-to-income ratio.,0
+a8f7e6d5-c4b3-a2b1-c0b9-a8f7e6d5c4b3,Olivia Quinn,2023-03-30,81000.0,680,39500.0,Home Improvement,Loan amount is high relative to income.,0
+c0b9a8f7-e6d5-c4b3-a2b1-c0b9a8f7e6d5,Peter Robinson,2022-10-03,95000.0,735,41500.0,Debt Consolidation,Solid applicant profile but loan is over 40k.,1
+3a2b1c0b-9a8f-7e6d-5c4b-3a2b1c0b9a8f,Quinn Scott,2023-08-11,61000.0,640,29000.0,Car Purchase,"Average credit profile, requires standard checks.",0
+6d5c4b3a-2b1c-0b9a-8f7e-6d5c4b3a2b1c,Riley Taylor,2024-01-29,188000.0,815,49000.0,Business Investment,Excellent credit but loan amount is a concern.,0
+9a8f7e6d-5c4b-3a2b-1c0b-9a8f7e6d5c4b,Sophia Williams,2023-07-07,52000.0,540,13500.0,Major Purchase,Low credit score is a significant risk factor.,1
+c4b3a2b1-c0b9-a8f7-e6d5-c4b3a2b1c0b9,Thomas Young,2022-09-18,130000.0,770,35000.0,Home Improvement,Strong application with no immediate red flags.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45200.75,585,42500.0,Debt consolidation,High loan amount relative to income.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Michael Williams,2022-11-20,155000.0,790,25000.0,Home improvement,Strong applicant with stable financial history.,0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Linda Brown,2024-01-10,78000.5,695,15000.0,Car financing,Applicant meets all primary criteria for approval.,0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Robert Jones,2023-09-01,38500.0,530,10000.0,Medical expenses,Low credit score is a significant concern.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Patricia Garcia,2023-03-22,92000.0,710,48000.0,Business loan,High debt-to-income ratio requires further review.,1
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,John Miller,2022-08-14,210000.0,815,49500.0,Major purchase,"Excellent credit profile, but loan amount is at the upper limit.",0
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Mary Davis,2024-02-28,61500.25,640,30000.0,Debt consolidation,Stable employment history supports the application.,0
+b8c9d0e1-f2a3-4567-8901-cdef12345678,James Rodriguez,2023-12-05,55000.0,595,20000.0,Education costs,"Borderline case due to credit score, requires manual review.",1
+c9d0e1f2-a3b4-5678-9012-def123456789,Barbara Martinez,2023-07-19,115000.0,725,39000.0,Home improvement,"Strong application, recommended for approval.",0
+d0e1f2a3-b4c5-6789-0123-ef1234567890,William Hernandez,2022-10-30,32100.0,480,8500.0,Car financing,Poor credit history and low income present high risk.,1
+e1f2a3b4-c5d6-7890-1234-f1234567890a,Elizabeth Lopez,2023-06-11,85500.0,680,41000.0,Business loan,Loan amount is high relative to annual income.,1
+f2a3b4c5-d6e7-8901-2345-1234567890ab,David Gonzalez,2024-03-03,182000.0,795,15500.0,Vacation,Applicant has a strong and reliable financial profile.,0
+a3b4c5d6-e7f8-9012-3456-234567890abc,Susan Wilson,2022-07-25,48900.0,605,22500.0,Major purchase,Credit history is short but appears clean.,0
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Joseph Anderson,2023-08-18,65400.0,660,35000.0,Debt consolidation,Standard application meeting all necessary criteria.,0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,Jessica Thomas,2023-02-09,41000.0,545,43500.0,Business loan,Multiple risk factors identified: low score and high loan amount.,1
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Richard Jackson,2022-09-12,125000.0,745,49900.0,Home improvement,High income supports the large loan amount requested.,0
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Nancy White,2024-04-01,98000.0,705,28000.0,Car financing,Solid application with no immediate concerns noted.,0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Charles Harris,2023-11-17,71000.0,665,46000.0,Debt consolidation,Potential over-leverage given the requested loan size.,1
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Karen Martin,2023-01-25,52500.0,598,12000.0,Medical expenses,Credit score is just below the preferred threshold.,1
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,Daniel Thompson,2022-12-30,225000.0,835,50000.0,Major purchase,Premier applicant; approved.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,James Smith,2023-05-15,45250.75,580,42500.0,Debt Consolidation,High risk due to low credit score and high loan amount.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Mary Johnson,2022-11-20,155000.0,790,25000.0,Home Improvement,Strong applicant with excellent credit and high income.,0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,John Williams,2024-01-10,82000.5,685,48000.0,New Car Purchase,Loan amount is high relative to annual income.,1
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Patricia Brown,2023-08-01,32500.0,450,10000.0,Medical Expenses,Applicant presents very high risk due to poor credit history.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Robert Jones,2023-03-22,95000.0,710,30000.0,Business Investment,Standard review indicates moderate risk profile.,0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Jennifer Garcia,2022-09-05,210000.0,810,49500.0,Major Purchase,"Strong applicant, but loan amount is at the upper limit.",0
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Michael Miller,2024-02-18,55000.8,615,20000.0,Used Car Purchase,Applicant meets minimum criteria for approval.,0
+b8c9d0e1-f2a3-4567-8901-cdef12345678,Linda Davis,2023-07-12,65000.0,595,35000.0,Debt Consolidation,Borderline credit score increases default risk.,1
+c9d0e1f2-a3b4-5678-9012-def123456789,William Rodriguez,2022-12-30,110000.25,740,15000.0,Vacation,Low risk applicant with stable financial history.,0
+d0e1f2a3-b4c5-6789-0123-ef1234567890,Elizabeth Martinez,2023-10-03,180000.0,795,5000.0,Education Expenses,"Excellent candidate, low loan amount poses minimal risk.",0
+e1f2a3b4-c5d6-7890-1234-f1234567890a,David Hernandez,2023-01-25,38500.0,520,39000.0,Business Investment,High debt-to-income ratio and low credit score.,1
+f2a3b4c5-d6e7-8901-2345-1234567890ab,Susan Lopez,2024-03-01,72000.0,670,41000.0,Home Improvement,"Acceptable credit, but loan size is a concern.",0
+a3b4c5d6-e7f8-9012-3456-234567890abc,Richard Gonzalez,2022-08-19,41000.9,640,8000.0,Major Purchase,Moderate risk profile with a manageable loan amount.,0
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Jessica Wilson,2023-06-09,135000.0,760,38000.0,New Car Purchase,Strong applicant with a solid financial background.,0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,Joseph Anderson,2023-12-11,88000.0,690,49000.0,Debt Consolidation,Loan amount is very high compared to income.,1
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Sarah Thomas,2022-10-28,59000.0,555,22000.0,Medical Expenses,Applicant presents high risk due to low credit score.,1
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Charles Taylor,2024-04-02,105000.0,725,33000.0,Home Improvement,Standard review indicates moderate risk profile.,0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Karen Moore,2023-09-14,240000.0,830,46000.0,Major Purchase,"Excellent profile, but loan is substantial.",0
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Thomas Jackson,2022-07-21,31000.0,350,5000.0,Used Car Purchase,Very high risk due to extremely low credit score.,1
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,Nancy Martin,2023-02-08,92000.0,660,28000.0,Debt Consolidation,Applicant has fair credit and manageable debt.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45000.5,580,25000.0,Debt Consolidation,Applicant presents a higher risk due to low credit score.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Johnson,2024-01-20,150000.0,810,45000.0,Home Improvement,High loan amount requested but income is substantial.,1
+12345678-90ab-cdef-0123-456789abcdef,Linda Williams,2022-11-01,75000.75,690,15000.0,New Car Purchase,Solid applicant with a good payment history.,0
+fedcba98-7654-3210-fedc-ba9876543210,Robert Brown,2023-08-11,38000.0,550,8000.0,Medical Expenses,Low income and credit score are significant risk factors.,1
+abcdef12-3456-7890-abcd-ef1234567890,Patricia Jones,2024-03-29,220000.0,835,48000.0,Business Startup Capital,"Excellent credit and income, but loan is at the upper limit.",0
+09876543-21fe-dcba-0987-654321fedcba,David Garcia,2022-09-05,95000.0,740,30000.0,Debt Consolidation,Verified income supports the requested loan amount.,0
+aabbccdd-eeff-0011-2233-445566778899,Susan Miller,2023-02-18,62000.0,640,12000.0,Major Appliance Purchase,Borderline applicant due to credit history.,0
+ffeeddcc-bbaa-9988-7766-554433221100,Joseph Davis,2023-12-24,110000.0,760,42000.0,Home Improvement,Strong profile but loan amount triggers additional review.,1
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,Jessica Rodriguez,2024-04-01,41000.0,610,10000.0,Vacation Fund,Debt-to-income ratio appears manageable.,0
+d6c5b4a3-f2e1-d0c9-b8a7-968574635241,William Martinez,2022-10-30,88000.0,715,22000.0,Education Expenses,Applicant has a stable employment history.,0
+74185296-3698-5214-7418-529636985214,Barbara Hernandez,2023-07-07,32000.0,520,7500.0,Medical Expenses,Very high risk profile due to low income and score.,1
+98765432-10fe-dcba-9876-543210fedcba,Richard Lopez,2024-02-14,180000.0,790,50000.0,Business Startup Capital,Applicant has an excellent credit history and stable income.,0
+b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5,Mary Gonzalez,2023-09-22,53000.0,660,18000.0,New Car Purchase,Standard risk profile with consistent payment history.,0
+f5e4d3c2-b1a0-f9e8-d7c6-b5a493827160,John Wilson,2023-01-03,99000.0,725,39000.0,Debt Consolidation,Loan amount is high but within acceptable DTI limits.,0
+a1b9c8d7-e6f5-a4b3-c2d1-e0f9a8b7c6d5,Elizabeth Anderson,2022-12-12,48000.0,595,15000.0,Home Improvement,Applicant presents a higher risk due to low credit score.,1
+6d5e4f3c-2b1a-09f8-e7d6-c5b4a3f2e1d0,James Thomas,2024-05-01,135000.0,770,35000.0,Business Startup Capital,Strong candidate with solid financial standing.,0
+f0e1d2c3-b4a5-f6e7-d8c9-b0a1f2e3d4c5,Susan Jackson,2023-06-19,71000.0,680,41000.0,Debt Consolidation,High loan amount requested relative to annual income.,1
+c5d4e3f2-a1b0-c9d8-e7f6-a5b4c3d2e1f0,Joseph White,2022-08-25,59000.0,625,9000.0,Major Appliance Purchase,Debt-to-income ratio appears manageable.,0
+1f0e9d8c-7b6a-5432-1fed-cba987654321,David Harris,2023-10-10,250000.0,850,20000.0,Vacation Fund,Applicant is considered very low risk.,0
+a1b2c3d4-e5f6-a1b2-c3d4-e5f6a1b2c3d4,Linda Martin,2024-03-15,42000.0,540,43000.0,New Car Purchase,Multiple high-risk flags: low score and high loan amount.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Eleanor Vance,2023-03-15,85000.0,720,25000.0,Debt Consolidation,Applicant has a strong credit history and stable income.,0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Marcus Thorne,2022-11-20,42000.5,580,15000.0,Medical Expenses,High-risk applicant due to low credit score.,1
+1a2b3c4d-5e6f-7890-abcd-ef1234567890,Isabella Rossi,2024-01-05,150000.75,810,48000.0,Business Investment,Large loan amount requires careful review of repayment capacity.,1
+98765432-10fe-dcba-9876-543210fedcba,Liam Gallagher,2023-08-11,65000.0,660,22000.0,Home Improvement,Standard risk profile; income is sufficient for the requested amount.,0
+abcdef12-3456-7890-fedc-ba9876543210,Sophia Chen,2022-09-30,35000.0,520,8000.0,Car Purchase,High-risk applicant due to low credit score.,1
+0f9e8d7c-6b5a-4321-1234-567890abcdef,Jackson Reed,2023-06-22,110000.0,750,35000.0,Major Purchase,Applicant has a strong credit history and stable income.,0
+fedcba98-7654-3210-fedc-ba9876543210,Ava Nguyen,2024-02-18,78000.25,690,41000.0,Debt Consolidation,Large loan amount requires careful review of repayment capacity.,1
+12345678-90ab-cdef-1234-567890abcdef,Noah Patel,2023-12-01,52000.0,610,18000.0,Education,Standard risk profile; income is sufficient for the requested amount.,0
+a1b2c3d4-e5f6-1122-3344-5566778899aa,Olivia Kim,2022-10-14,95000.0,740,30000.0,Vacation,Applicant has a strong credit history and stable income.,0
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Benjamin Carter,2023-04-09,38000.0,595,12000.0,Medical Expenses,High-risk applicant due to low credit score.,1
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Mia Williams,2024-03-25,210000.0,830,49500.0,Home Improvement,Large loan amount but strong applicant profile.,0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Lucas Martinez,2023-07-30,61000.0,640,20000.0,Car Purchase,Standard risk profile; income is sufficient for the requested amount.,0
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Amelia Jones,2022-12-12,45000.0,605,45000.0,Business Investment,Loan amount is very high relative to income.,1
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Henry Garcia,2023-09-05,135000.0,780,38000.0,Debt Consolidation,Applicant has a strong credit history and stable income.,0
+a7b8c9d0-e1f2-3456-7890-1bcdef123456,Evelyn Davis,2024-01-20,31000.0,550,7500.0,Major Purchase,High-risk applicant due to low credit score.,1
+b8c9d0e1-f2a3-4567-8901-2cdef1234567,Alexander Rodriguez,2023-11-15,72000.0,680,28000.0,Home Improvement,Standard risk profile; income is sufficient for the requested amount.,0
+c9d0e1f2-a3b4-5678-9012-3def12345678,Charlotte Wilson,2022-08-08,180000.0,800,42000.0,Business Investment,Large loan amount requires careful review of repayment capacity.,0
+d0e1f2a3-b4c5-6789-0123-4ef123456789,Daniel Moore,2023-05-19,59000.0,630,19000.0,Car Purchase,Standard risk profile; income is sufficient for the requested amount.,0
+e1f2a3b4-c5d6-7890-1234-5f1234567890,Harper Taylor,2024-04-01,48000.0,590,25000.0,Debt Consolidation,High-risk applicant due to low credit score.,1
+f2a3b4c5-d6e7-8901-2345-61234567890a,Sebastian Anderson,2023-10-28,99000.0,730,6000.0,Vacation,Applicant has a strong credit history and stable income.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,85000.5,720,25000.0,Debt Consolidation,"Standard risk profile, meets minimum requirements.",0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Williams,2022-11-20,42000.75,580,15000.0,Car Financing,Low credit score presents a significant risk.,1
+12345678-90ab-cdef-0123-456789abcdef,Linda Brown,2024-01-10,120000.0,790,48000.0,Home Improvement,Large loan amount requested requires further review.,1
+fedcba98-7654-3210-fedc-ba9876543210,Robert Jones,2023-08-01,65000.0,680,35000.0,Major Purchase,Application appears straightforward.,0
+abcdef12-3456-7890-abcd-ef1234567890,David Garcia,2022-09-25,38000.25,550,10000.0,Medical Expenses,Low credit score is a primary concern.,1
+550e8400-e29b-41d4-a716-446655440000,Mary Miller,2023-12-05,155000.0,810,30000.0,Business Loan,Excellent credit history and stable income.,0
+98765432-10fe-dcba-9876-543210fedcba,John Davis,2024-03-18,72000.0,695,42000.5,Debt Consolidation,Large loan amount requested requires further review.,1
+a1b2c3d4-e5f6-a1b2-c3d4-e5f6a1b2c3d4,Patricia Rodriguez,2023-02-28,53000.0,640,20000.0,Home Improvement,"Standard risk profile, meets minimum requirements.",0
+f0e9d8c7-b6a5-f0e9-d8c7-b6a5f0e9d8c7,William Martinez,2022-07-11,95000.0,740,49500.0,Car Financing,Loan amount is high relative to income.,1
+1234abcd-ef56-7890-1234-567890abcdef,Elizabeth Hernandez,2023-10-02,210000.0,830,50000.0,Major Purchase,"Strong credit profile, but max loan amount requested.",0
+fedcba09-8765-4321-fedc-ba0987654321,James Lopez,2024-04-01,31000.0,520,8000.0,Medical Expenses,Low credit score presents a significant risk.,1
+abcdef12-3456-abcd-ef12-34567890abcd,Barbara Gonzalez,2022-12-30,78000.5,710,22000.0,Vacation,Application appears straightforward.,0
+550e8400-e29b-41d4-a716-446655440013,Richard Wilson,2023-06-22,62000.0,610,38000.0,Debt Consolidation,"Credit score is borderline, proceed with caution.",0
+98765432-10fe-dcba-9876-543210fedcbb,Susan Johnson,2024-02-14,45000.0,590,25000.0,Business Loan,Low credit score presents a significant risk.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdee,Joseph Williams,2023-09-09,180000.0,760,46000.0,Home Improvement,Large loan amount requested requires further review.,1
+f0e9d8c7-b6a5-4321-fedc-ba987654321f,Jessica Brown,2022-10-15,88000.0,730,15000.0,Car Financing,"Standard risk profile, meets minimum requirements.",0
+12345678-90ab-cdef-0123-456789abcde0,Michael Smith,2023-01-20,51000.0,605,30000.0,Debt Consolidation,High debt-to-income ratio is a concern.,0
+fedcba98-7654-3210-fedc-ba9876543211,Linda Jones,2023-11-08,99000.0,755,40000.0,Major Purchase,Application appears straightforward.,0
+abcdef12-3456-7890-abcd-ef1234567892,Robert Davis,2022-08-17,33000.0,450,5500.0,Medical Expenses,Very low credit score indicates high default probability.,1
+550e8400-e29b-41d4-a716-446655440014,Jennifer Martinez,2024-05-01,135000.0,770,49000.0,Business Loan,Large loan amount requested requires further review.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-05-15,45200.78,580,38500.0,Debt Consolidation,High debt-to-income ratio noted.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Robert Martinez,2022-11-22,185600.5,810,25000.0,Home Improvement,Excellent credit profile.,0
+12345678-90ab-cdef-0123-456789abcdef,Mary Jones,2024-01-30,72300.0,675,42100.5,Car Purchase,Loan amount is high relative to income.,1
+fedcba98-7654-3210-fedc-ba9876543210,John Garcia,2023-08-01,38900.25,455,10000.0,Medical Expenses,Previous defaults on record.,1
+abcdef12-3456-7890-abcd-ef1234567890,Patricia Brown,2022-09-18,125000.0,720,48000.0,Business Investment,Stable employment history.,0
+09876543-21fe-dcba-0987-654321fedcba,Michael Smith,2024-03-25,95400.8,715,15500.0,Vacation,Applicant meets all standard criteria.,0
+aabbccdd-eeff-0011-2233-445566778899,Linda Davis,2023-12-05,62150.0,610,20000.0,Debt Consolidation,Credit history is short but clean.,0
+ffeeddcc-bbaa-9988-7766-554433221100,William Rodriguez,2022-07-11,210000.0,830,49500.0,Home Improvement,Excellent credit profile.,0
+11223344-5566-7788-99aa-bbccddeeff00,Elizabeth Miller,2023-02-14,51500.0,595,41500.0,Major Purchase,"Borderline case, requires manual review.",1
+cdef1234-5678-90ab-cdef-1234567890ab,David Hernandez,2024-04-01,88900.0,690,30000.0,Education,Applicant meets all standard criteria.,0
+55aa66bb-77cc-88dd-99ee-ff0011223344,Barbara Lopez,2022-10-11,32250.5,520,8000.0,Medical Expenses,High debt-to-income ratio noted.,1
+66bb77cc-88dd-99ee-ff00-1122334455aa,Richard Gonzalez,2023-06-25,145800.0,765,35000.0,Car Purchase,Stable employment history.,0
+77cc88dd-99ee-ff00-1122-334455aa66bb,Susan Wilson,2023-09-19,49950.0,605,22500.0,Debt Consolidation,Credit history is short but clean.,0
+88dd99ee-ff00-1122-3344-55aa66bb77cc,Joseph Johnson,2022-08-08,195000.0,815,49900.0,Business Investment,Loan amount is high relative to income.,1
+99eeff00-1122-3344-55aa-66bb77cc88dd,Jessica Taylor,2024-02-28,68500.0,630,18000.0,Home Improvement,Applicant meets all standard criteria.,0
+aa001122-3344-5566-7788-99aabbccffee,Charles Moore,2023-01-03,42800.0,550,12500.0,Major Purchase,Previous defaults on record.,1
+bb112233-4455-6677-8899-aabbccddeeff,Sarah Anderson,2023-07-12,115000.0,740,39500.0,Vacation,Stable employment history.,0
+cc223344-5566-7788-99aa-bbccddeeff00,Thomas Jackson,2022-12-21,72800.0,640,43500.0,Debt Consolidation,Loan amount is high relative to income.,1
+dd334455-6677-8899-aabb-ccddeeff0011,Karen White,2024-05-01,99500.0,730,28000.0,Car Purchase,Applicant meets all standard criteria.,0
+ee445566-7788-99aa-bbcc-ddeeff001122,James Harris,2023-11-09,38100.0,490,46500.0,Medical Expenses,"Borderline case, requires manual review.",1
+e9a2b8c1-3f4d-4e5a-8b6c-7d8e9f0a1b2c,Jennifer Smith,2023-11-20,45200.5,585,38500.75,Debt consolidation,High risk profile due to low credit score.,1
+f8b3c9d2-4e5f-4a6b-9c7d-8e9f0a1b2c3d,Michael Johnson,2024-03-15,125000.0,780,25000.0,Home improvement,"Strong credit profile, low risk.",0
+a7c4d0e3-5f6a-4b7c-8d9e-9f0a1b2c3d4e,Mary Williams,2022-10-05,78000.9,680,48500.0,Car purchase,"Stable income and credit history, moderate risk.",1
+b6d5e1f4-6a7b-4c8d-9e0f-0a1b2c3d4e5f,James Brown,2023-01-22,32500.0,450,10000.0,Medical expenses,High risk profile due to low credit score.,1
+c5e6f2a5-7b8c-4d9e-8f1a-1b2c3d4e5f6a,Patricia Jones,2024-05-01,210000.0,820,49500.5,Business investment,"Strong credit profile, low risk.",0
+d4f7a3b6-8c9d-4e0f-9a2b-2c3d4e5f6a7b,Robert Garcia,2023-08-11,95000.75,710,30000.0,Major purchase,"Stable income and credit history, moderate risk.",0
+e3a8b4c7-9d0e-4f1a-8b3c-3d4e5f6a7b8c,Linda Miller,2022-12-30,49000.25,645,15000.0,Vacation,"Some concerns with credit history, requires review.",0
+f2b9c5d8-0e1f-4a2b-9c4d-4e5f6a7b8c9d,William Davis,2023-06-18,65000.0,595,22000.0,Emergency fund,High risk profile due to low credit score.,1
+a1c0d6e9-1f2a-4b3c-8d5e-5f6a7b8c9d0e,Elizabeth Rodriguez,2024-02-09,110000.5,690,35000.0,Debt consolidation,"Stable income and credit history, moderate risk.",0
+b0d1e7fa-2a3b-4c4d-9e6f-6a7b8c9d0e1f,David Martinez,2023-09-03,38000.0,520,8000.0,Car purchase,High risk profile due to low credit score.,1
+cff2f8ab-3b4c-4d5e-8f7a-7b8c9d0e1f2a,Barbara Hernandez,2024-04-25,180000.0,845,15000.0,Home improvement,"Strong credit profile, low risk.",0
+de03a9bc-4c5d-4e6f-9a8b-8c9d0e1f2a3b,Richard Lopez,2023-04-12,55000.8,590,28000.0,Medical expenses,High risk profile due to low credit score.,1
+ed14ba_cd-5d6e-4f7a-8b9c-9d0e1f2a3b4c,Susan Gonzalez,2022-11-01,88000.0,705,41000.0,Business investment,"Stable income and credit history, moderate risk.",1
+fa25cbde-6e7f-4a8b-9c0d-0e1f2a3b4c5d,Joseph Wilson,2023-07-28,42000.0,630,12000.0,Major purchase,"Some concerns with credit history, requires review.",0
+0b36dcef-7f8a-4b9c-8d1e-1f2a3b4c5d6e,Jessica Anderson,2024-01-10,140000.2,740,46000.0,Debt consolidation,"Strong credit profile, low risk.",1
+1c47edfa-8a9b-4cac-9e2f-2a3b4c5d6e7f,Thomas Taylor,2023-10-19,72000.0,660,20000.0,Vacation,"Stable income and credit history, moderate risk.",0
+2d58febb-9bac-4dbd-8f3a-3b4c5d6e7f8a,Sarah Moore,2022-09-14,31000.0,490,9500.0,Emergency fund,High risk profile due to low credit score.,1
+3e69accc-acbd-4ece-9a4b-4c5d6e7f8a9b,Charles Jackson,2024-06-02,165000.0,795,39000.0,Home improvement,"Strong credit profile, low risk.",0
+4f7abddd-bced-4fdf-8b5c-5d6e7f8a9b0c,Karen Martin,2023-02-27,68000.5,615,42500.0,Car purchase,"Some concerns with credit history, requires review.",1
+5a8bceee-cdef-4a0a-9c6d-6e7f8a9b0c1d,John Thomas,2023-12-08,48000.0,655,18000.0,Debt consolidation,"Stable income and credit history, moderate risk.",0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-10-25,45000.75,580,15000.0,Debt Consolidation,Low credit score is a significant risk factor.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Michael Johnson,2024-01-15,155000.5,790,45000.0,Home Improvement,Excellent credit profile and stable income.,0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Linda Williams,2022-11-30,82000.0,690,20000.0,Car Purchase,Applicant has a solid credit history.,0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Robert Brown,2023-05-02,61000.25,610,48000.0,Business Investment,Loan amount is high relative to annual income.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Patricia Jones,2023-09-18,38000.0,550,8000.0,Medical Expenses,Low credit score is a significant risk factor.,1
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,John Davis,2024-03-01,210000.0,815,49500.0,Major Purchase,Excellent credit profile and stable income.,0
+a7b8c9d0-e1f2-3456-7890-abcdef123456,Mary Miller,2022-08-12,95000.0,720,35000.0,Debt Consolidation,Applicant has a solid credit history.,0
+b8c9d0e1-f2a3-4567-8901-bcdef1234567,James Wilson,2023-02-20,52000.0,640,22000.0,Education,Credit history shows some past delinquencies.,0
+c9d0e1f2-a3b4-5678-9012-cdef12345678,Barbara Martinez,2023-12-05,73000.0,660,42000.0,Home Improvement,Loan amount is high relative to annual income.,1
+d0e1f2a3-b4c5-6789-0123-def123456789,William Garcia,2024-04-11,125000.0,740,15000.0,Vacation,Applicant has a solid credit history.,0
+e1f2a3b4-c5d6-7890-1234-ef1234567890,David Rodriguez,2022-07-22,41000.8,595,18000.0,Car Purchase,Low credit score is a significant risk factor.,1
+f2a3b4c5-d6e7-8901-2345-f12345678901,Susan Hernandez,2023-06-09,68000.0,675,30000.0,Debt Consolidation,Applicant has a solid credit history.,0
+a3b4c5d6-e7f8-9012-3456-123456789012,Joseph Lopez,2023-11-11,180000.0,760,49000.0,Business Investment,Excellent credit profile and stable income.,0
+b4c5d6e7-f8a9-0123-4567-234567890123,Jessica Gonzalez,2024-02-14,33000.0,520,10000.0,Medical Expenses,Low credit score is a significant risk factor.,1
+c5d6e7f8-a9b0-1234-5678-345678901234,Richard Anderson,2022-10-01,110000.0,710,50000.0,Home Improvement,Loan amount is high relative to annual income.,1
+d6e7f8a9-b0c1-2345-6789-456789012345,Elizabeth Thomas,2023-04-30,99000.5,730,25000.0,Wedding Expenses,Applicant has a solid credit history.,0
+e7f8a9b0-c1d2-3456-7890-567890123456,Thomas Taylor,2023-08-25,58000.0,630,30000.0,Debt Consolidation,Credit history shows some past delinquencies.,0
+f8a9b0c1-d2e3-4567-8901-678901234567,Sarah Moore,2024-05-01,48000.0,490,41000.0,Business Investment,Low credit score is a significant risk factor.,1
+a9b0c1d2-e3f4-5678-9012-789012345678,Charles Jackson,2022-12-19,245000.0,840,30000.0,Major Purchase,Excellent credit profile and stable income.,0
+b0c1d2e3-f4a5-6789-0123-890123456789,Karen Martin,2023-07-07,88000.0,680,46000.0,Home Improvement,Loan amount is high relative to annual income.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,85000.5,685,25000.0,Debt Consolidation,"Solid applicant, meets standard criteria.",0
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Michael Williams,2022-11-20,42000.75,570,15000.0,Car Purchase,High risk due to low credit score.,1
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Mary Johnson,2024-01-10,155000.0,790,45000.0,Home Improvement,"Strong credit profile, low risk.",0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Robert Jones,2023-08-01,58000.0,610,48000.0,Business Loan,"Borderline case, requires further review.",1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Patricia Brown,2022-09-25,220000.25,820,30000.0,Major Purchase,"Strong credit profile, low risk.",0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,John Davis,2023-12-30,35000.0,525,8000.0,Medical Expenses,High risk due to low credit score.,1
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Linda Miller,2024-03-05,95000.0,710,12000.0,Vacation,"Solid applicant, meets standard criteria.",0
+b8c9d0e1-f2a3-4567-8901-cdef12345678,William Rodriguez,2022-07-18,72000.0,650,35000.0,Debt Consolidation,"Borderline case, requires further review.",0
+c9d0e1f2-a3b4-5678-9012-def123456789,Elizabeth Martinez,2023-02-14,180000.0,760,49500.0,Home Improvement,"Strong credit profile, low risk.",1
+d0e1f2a3-b4c5-6789-0123-ef1234567890,David Hernandez,2023-10-02,61000.0,595,22000.0,Car Purchase,High risk due to low credit score.,1
+e1f2a3b4-c5d6-7890-1234-f1234567890a,Susan Lopez,2022-06-11,110000.0,725,5000.0,Medical Expenses,"Solid applicant, meets standard criteria.",0
+f2a3b4c5-d6e7-8901-2345-1234567890ab,Joseph Gonzalez,2024-04-01,31000.0,480,49000.0,Business Loan,High risk due to low credit score.,1
+a3b4c5d6-e7f8-9012-3456-234567890abc,Jessica Wilson,2023-07-22,99000.0,700,18000.0,Debt Consolidation,"Solid applicant, meets standard criteria.",0
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Thomas Anderson,2022-12-19,135000.0,745,42000.0,Home Improvement,"Strong credit profile, low risk.",0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,Sarah Taylor,2023-04-18,68000.0,640,28000.0,Major Purchase,"Borderline case, requires further review.",0
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Charles Moore,2024-02-28,48000.0,585,10000.0,Car Purchase,High risk due to low credit score.,1
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Karen Jackson,2022-10-05,195000.0,810,50000.0,Business Loan,"Strong credit profile, low risk.",0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Daniel Martin,2023-09-12,75000.0,670,15000.0,Debt Consolidation,"Solid applicant, meets standard criteria.",0
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Lisa Thompson,2023-11-08,53000.0,605,41000.0,Home Improvement,High loan-to-income ratio is a concern.,1
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,Matthew White,2024-03-20,160000.0,755,20000.0,Educational Expenses,"Strong credit profile, low risk.",0
+e9a2b8c3-4d5e-4f6a-8b7c-1d2e3f4a5b6c,Jennifer Williams,2023-05-15,45000.5,580,38000.75,Debt Consolidation,"Applicant has a low credit score, posing a higher risk.",1
+f1b3c4d5-6e7f-8a9b-0c1d-2e3f4a5b6c7d,Michael Brown,2022-11-20,155000.0,790,25000.0,Home Improvement,Strong credit history supports approval.,0
+a2c4d6e8-0f1a-2b3c-4d5e-6f7a8b9c0d1e,Linda Jones,2024-01-10,85000.25,690,45000.0,New Car Purchase,High debt-to-income ratio is a concern.,1
+b3d5e7f9-1a2b-3c4d-5e6f-7a8b9c0d1e2f,Robert Garcia,2023-09-01,32000.0,450,10000.0,Medical Emergency,"Applicant has a low credit score, posing a higher risk.",1
+c4e6f8a0-2b3c-4d5e-6f7a-8b9c0d1e2f3g,Patricia Miller,2023-02-28,220000.8,820,48000.5,Business Startup,High income provides a stable repayment capacity.,0
+d5f7a9b1-3c4d-5e6f-7a8b-9c0d1e2f3g4h,James Davis,2022-08-18,65000.0,660,15000.0,Vacation,Standard risk profile observed for this loan category.,0
+e6a8bac2-4d5e-6f7a-8b9c-0d1e2f3g4h5i,Mary Rodriguez,2024-03-05,78000.9,710,42000.0,Used Car Purchase,High debt-to-income ratio is a concern.,1
+f7b9cbd3-5e6f-7a8b-9c0d-1e2f3g4h5i6j,John Martinez,2023-07-22,95000.0,730,20000.0,Tuition Fees,Standard risk profile observed for this loan category.,0
+a8cadbe4-6f7a-8b9c-0d1e-2f3g4h5i6j7k,William Hernandez,2022-12-30,41000.0,610,8000.0,Major Appliance Purchase,Standard risk profile observed for this loan category.,0
+b9dbecf5-7a8b-9c0d-1e2f-3g4h5i6j7k8l,Elizabeth Lopez,2023-10-12,180000.0,795,49500.0,Debt Consolidation,High income provides a stable repayment capacity.,0
+caebfd06-8b9c-0d1e-2f3g-4h5i6j7k8l9m,David Gonzalez,2024-02-14,52000.0,550,12000.0,Home Improvement,"Applicant has a low credit score, posing a higher risk.",1
+dbfc0e17-9c0d-1e2f-3g4h-5i6j7k8l9m0n,Barbara Wilson,2022-07-07,110000.0,740,35000.0,New Car Purchase,Standard risk profile observed for this loan category.,0
+ec1d1f28-0d1e-2f3g-4h5i-6j7k8l9m0n1o,Richard Anderson,2023-04-19,35000.0,595,25000.0,Business Startup,High debt-to-income ratio is a concern.,1
+fd2e2039-1e2f-3g4h-5i6j-7k8l9m0n1o2p,Susan Thomas,2023-11-08,99000.0,680,41000.0,Debt Consolidation,Standard risk profile observed for this loan category.,0
+ae3f314a-2f3g-4h5i-6j7k-8l9m0n1o2p3q,Joseph Taylor,2022-10-25,68000.0,670,30000.0,Vacation,Standard risk profile observed for this loan category.,0
+bf40425b-3g4h-5i6j-7k8l-9m0n1o2p3q4r,Jessica Moore,2024-04-01,205000.0,810,49000.0,Home Improvement,High income provides a stable repayment capacity.,0
+c051536c-4h5i-6j7k-8l9m-0n1o2p3q4r5s,Thomas Jackson,2023-01-02,48000.0,630,18000.0,Used Car Purchase,Standard risk profile observed for this loan category.,0
+d162647d-5i6j-7k8l-9m0n-1o2p3q4r5s6t,Sarah Martin,2022-09-11,72000.0,655,39500.0,Medical Emergency,High debt-to-income ratio is a concern.,0
+e273758e-6j7k-8l9m-0n1o-2p3q4r5s6t7u,Charles Lee,2023-08-08,31000.0,520,15000.0,Debt Consolidation,"Applicant has a low credit score, posing a higher risk.",1
+f384869f-7k8l-9m0n-1o2p-3q4r5s6t7u8v,Karen Perez,2023-06-29,130000.0,760,43000.0,Business Startup,Strong credit history supports approval.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,James Smith,2023-05-15,45200.5,580,25000.0,Debt Consolidation,High risk due to low credit score.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Mary Johnson,2022-11-20,155000.0,790,45000.0,Home Improvement,Low risk applicant with solid financials.,0
+12345678-90ab-cdef-0123-456789abcdef,John Williams,2024-01-10,75000.0,685,15000.0,Car Purchase,Stable income but moderate credit score.,0
+fedcba98-7654-3210-fedc-ba9876543210,Patricia Brown,2023-08-01,38000.75,450,48000.0,Business Investment,Loan amount is large relative to income.,1
+abcdef01-2345-6789-abcd-ef0123456789,Robert Jones,2023-03-22,182500.0,820,30000.0,Vacation,Excellent credit score and stable employment.,0
+550e8400-e29b-41d4-a716-446655440000,Jennifer Garcia,2022-09-05,95300.0,710,20000.0,Medical Expenses,"Standard risk profile, requires monitoring.",0
+a1b3c5d7-e9f1-2345-6789-abcdef012345,Michael Miller,2024-02-18,55000.0,615,10000.0,Debt Consolidation,"Standard risk profile, requires monitoring.",0
+f0e9d8c7-b6a5-4321-abcd-ef0123456789,Linda Davis,2023-07-12,110000.0,755,42500.0,Home Improvement,Strong credit history and high income.,0
+1234abcd-ef56-7890-1234-567890abcdef,William Rodriguez,2022-12-30,42000.0,585,8000.0,Major Purchase,High risk due to low credit score.,1
+fedcba09-8765-4321-fedc-ba9876543210,Elizabeth Martinez,2023-10-02,68500.25,650,35000.0,Business Investment,Debt-to-income ratio is slightly elevated.,0
+abcdef12-3456-7890-abcd-ef0123456789,David Hernandez,2023-01-25,135000.0,795,49500.0,Debt Consolidation,Excellent credit score and stable employment.,0
+550e8400-e29b-41d4-a716-446655440011,Barbara Lopez,2022-08-14,31500.0,350,12000.0,Medical Expenses,Applicant has a history of late payments.,1
+a1b3c5d7-e9f1-2345-6789-abcdef012346,Richard Gonzalez,2024-03-01,88000.0,705,28000.0,Car Purchase,Stable income but moderate credit score.,0
+f0e9d8c7-b6a5-4321-abcd-ef0123456780,Susan Wilson,2023-06-19,195000.0,840,49000.0,Home Improvement,Low risk applicant with solid financials.,0
+1234abcd-ef56-7890-1234-567890abcde1,Joseph Anderson,2022-10-11,52500.0,595,22000.0,Education,High risk due to low credit score.,1
+fedcba09-8765-4321-fedc-ba9876543211,Jessica Thomas,2023-11-08,71000.0,660,18000.0,Vacation,"Standard risk profile, requires monitoring.",0
+abcdef12-3456-7890-abcd-ef012345678a,Charles Jackson,2023-04-03,125000.0,760,39000.0,Business Investment,Strong credit history and high income.,0
+550e8400-e29b-41d4-a716-446655440012,Karen White,2022-07-21,61000.0,620,41000.0,Debt Consolidation,Loan amount is large relative to income.,1
+a1b3c5d7-e9f1-2345-6789-abcdef012347,Daniel Harris,2024-01-05,38500.0,510,15000.0,Major Purchase,Applicant has a history of late payments.,1
+f0e9d8c7-b6a5-4321-abcd-ef0123456781,Nancy Clark,2023-09-28,165000.0,805,25000.0,Home Improvement,Excellent credit score and stable employment.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-04-12,42000.5,580,45500.75,Debt consolidation,High risk due to low credit score and high loan amount.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Johnson,2022-11-21,155000.0,790,25000.0,Home improvement,Applicant meets all standard lending criteria.,0
+11223344-5566-7788-99aa-bbccddeeff00,Mary Williams,2024-01-05,75000.8,680,15000.0,New car purchase,Solid credit history and stable income.,0
+abcdef12-3456-7890-abcd-ef1234567890,Robert Jones,2023-08-19,38000.0,550,39000.0,Medical expenses,Applicant's credit history is a major concern.,1
+fedcba09-8765-4321-0fed-cba987654321,Patricia Brown,2023-02-28,210000.0,820,48000.5,Small business funding,"Loan amount is high, but income and credit score provide strong support.",0
+5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d,John Davis,2022-07-14,62000.0,640,22000.0,Debt consolidation,Borderline credit score warrants a second look.,0
+e1f2a3b4-c5d6-7e8f-9a0b-1c2d3e4f5a6b,Linda Miller,2024-03-20,95000.0,710,10000.0,Vacation financing,"Low risk profile, recommend for approval.",0
+b9c8d7e6-f5a4-b3c2-d1e0-f9a8b7c6d5e4,David Wilson,2023-10-30,49000.0,610,41000.0,Major appliance purchase,Concerned about high loan amount relative to income.,1
+4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a,Elizabeth Moore,2022-09-01,180000.0,760,50000.0,Home improvement,Strong financial standing and clear purpose for loan.,0
+cba98765-4321-0fed-cba9-876543210fed,William Taylor,2023-06-15,53000.0,595,18000.0,New car purchase,High risk due to low credit score.,1
+3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b,Barbara Anderson,2024-02-11,88000.0,720,35000.0,Debt consolidation,Applicant meets all standard lending criteria.,0
+2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c,Richard Thomas,2022-12-25,110000.0,740,49500.0,Small business funding,Loan amount is high but manageable with current income.,0
+8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c,Susan Jackson,2023-09-08,32000.0,520,8000.0,Medical expenses,Applicant's credit history is a major concern.,1
+7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b,Joseph White,2023-07-22,99000.0,690,30000.0,Home improvement,Solid credit history and stable income.,0
+6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a,Jessica Harris,2024-01-17,130000.0,810,20000.0,New car purchase,"Low risk profile, recommend for approval.",0
+0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,Charles Martin,2022-08-03,65000.0,660,42000.0,Debt consolidation,Concerned about high debt-to-income ratio.,1
+f0e1d2c3-b4a5-f6e7-d8c9-b0a1f2e3d4c5,Karen Thompson,2023-12-10,72000.0,675,12000.0,Educational expenses,Applicant meets all standard lending criteria.,0
+5a4b3c2d-1e0f-9a8b-7c6d-5e4f3a2b1c0d,Thomas Garcia,2022-10-18,245000.0,845,49999.0,Small business funding,Strong financial standing and clear purpose for loan.,0
+d1e2f3a4-b5c6-d7e8-f9a0-b1c2d3e4f5a6,Sarah Martinez,2023-03-04,41000.0,605,9000.0,Vacation financing,Borderline credit score warrants a second look.,0
+c0b1a2f3-e4d5-c6b7-a8f9-e0d1c2b3a4f5,Daniel Rodriguez,2023-11-01,58000.0,570,44000.0,Debt consolidation,High risk due to low credit score and high loan amount.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-05-15,45200.75,585,22500.0,Debt Consolidation,High default risk due to poor credit history.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Robert Jones,2022-11-20,185000.5,790,48000.0,Small Business Investment,Large loan amount presents a significant repayment risk.,1
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Mary Smith,2024-01-10,95000.0,720,15000.0,Home Improvement Project,"Standard risk profile, requires routine monitoring.",0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Michael Davis,2023-08-01,38000.25,450,8500.0,Medical Bill Payment,High risk due to very low credit score.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,William Garcia,2022-09-05,210500.0,810,35000.0,New Car Purchase,"Strong credit profile, low risk applicant.",0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Patricia Miller,2024-03-22,72000.0,680,41500.0,Debt Consolidation,Large loan amount presents a significant repayment risk.,1
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,David Rodriguez,2023-02-14,59000.8,610,29000.0,Debt Consolidation,"Standard risk profile, requires routine monitoring.",0
+b8c9d0e1-f2a3-4567-8901-cdef12345678,Linda Martinez,2022-12-30,135000.0,755,49500.0,Home Improvement Project,High income and credit score mitigate risk of large loan.,0
+c9d0e1f2-a3b4-5678-9012-def123456789,James Wilson,2023-10-18,88000.0,695,12000.0,Vacation Funding,"Standard risk profile, requires routine monitoring.",0
+d0e1f2a3-b4c5-6789-0123-ef1234567890,Susan Hernandez,2024-04-01,42000.0,530,18000.0,Medical Bill Payment,High risk due to very low credit score.,1
+e1f2a3b4-c5d6-7890-1234-f1234567890a,Joseph Lopez,2023-07-25,165000.0,770,45000.0,Small Business Investment,Large loan amount presents a significant repayment risk.,1
+f2a3b4c5-d6e7-8901-2345-1234567890ab,Elizabeth Gonzalez,2023-01-11,68500.0,640,42000.0,New Car Purchase,Debt-to-income ratio is a potential concern.,1
+a3b4c5d6-e7f8-9012-3456-234567890abc,Richard Brown,2022-10-02,31000.0,380,10000.0,Major Appliance Purchase,High risk due to very low credit score.,1
+b4c5d6e7-f8a9-0123-4567-34567890abcd,Barbara Johnson,2024-02-28,115000.0,730,20000.0,Educational Expenses,"Standard risk profile, requires routine monitoring.",0
+c5d6e7f8-a9b0-1234-5678-4567890abcde,John Smith,2023-09-12,78000.5,685,6000.0,Vacation Funding,"Standard risk profile, requires routine monitoring.",0
+d6e7f8a9-b0c1-2345-6789-567890abcdef,Jessica Taylor,2023-06-19,92000.0,710,44000.0,Home Improvement Project,Large loan amount presents a significant repayment risk.,0
+e7f8a9b0-c1d2-3456-7890-67890abcdef1,Charles Moore,2022-08-15,245000.0,830,49900.0,Small Business Investment,High income and credit score mitigate risk of large loan.,0
+f8a9b0c1-d2e3-4567-8901-7890abcdef12,Sarah Anderson,2024-05-01,53000.0,595,25000.0,Debt Consolidation,High default risk due to poor credit history.,1
+a9b0c1d2-e3f4-5678-9012-890abcdef123,Thomas Davis,2023-03-03,105000.0,745,18000.0,New Car Purchase,"Standard risk profile, requires routine monitoring.",0
+b0c1d2e3-f4a5-6789-0123-90abcdef1234,Karen Garcia,2023-12-10,81000.0,670,46000.0,Home Improvement Project,Debt-to-income ratio is a potential concern.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-10-27,45000.75,585,42500.5,Debt Consolidation,Low credit score and high loan amount present significant risk.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Williams,2024-01-15,155200.0,810,25000.0,Home Improvement,Applicant has an excellent credit history.,0
+1a2b3c4d-5e6f-7890-abcd-ef1234567890,Linda Brown,2022-11-05,82000.0,680,48000.0,New Car Purchase,High loan-to-income ratio requires further review.,1
+fedcba98-7654-3210-fedc-ba9876543210,Robert Jones,2023-05-20,65000.5,640,15000.0,Medical Expenses,Standard application with no immediate red flags.,0
+01234567-89ab-cdef-0123-456789abcdef,Patricia Garcia,2022-08-11,38500.25,450,10000.0,Business Startup,Low credit score presents a significant risk.,1
+abcdef01-2345-6789-abcd-ef0123456789,John Miller,2024-03-01,120000.0,760,35000.0,Vacation,Applicant has a strong credit profile and stable income.,0
+fedcba98-7654-3210-1234-567890abcdef,Mary Davis,2023-02-18,95000.0,710,30000.0,Debt Consolidation,Standard application with no immediate red flags.,0
+a1b2c3d4-e5f6-a1b2-c3d4-e5f6a1b2c3d4,James Rodriguez,2022-12-30,52000.0,595,28000.0,Major Appliance Purchase,Borderline credit score warrants careful consideration.,1
+f0e9d8c7-b6a5-f0e9-d8c7-b6a5f0e9d8c7,David Martinez,2023-09-09,210000.0,835,49500.0,Home Improvement,Applicant has an excellent credit history.,0
+1a2b3c4d-5e6f-1a2b-3c4d-5e6f1a2b3c4d,Susan Hernandez,2024-02-25,71000.0,660,22000.0,Education Expenses,Standard application with no immediate red flags.,0
+fedcba98-7654-fedc-ba98-7654fedcba98,William Lopez,2023-07-14,32000.0,520,7500.0,Medical Expenses,Low credit score presents a significant risk.,1
+01234567-89ab-0123-4567-89abcdef0123,Jessica Gonzalez,2022-10-02,180000.0,790,45000.0,Business Startup,High loan amount but strong credit and income.,0
+abcdef01-2345-abcd-ef01-23456789abcd,Joseph Wilson,2023-11-19,68000.0,610,39000.0,Debt Consolidation,High loan-to-income ratio requires further review.,0
+fedcba98-7654-1234-5678-90abcdef1234,Barbara Anderson,2024-04-01,88000.0,725,12000.0,New Car Purchase,Applicant has a strong credit profile and stable income.,0
+a1b2c3d4-e5f6-fedc-ba98-76543210fedc,Richard Thomas,2022-09-15,41000.0,550,20000.0,Home Improvement,Low credit score presents a significant risk.,1
+f0e9d8c7-b6a5-a1b2-c3d4-e5f6a1b2c3d4,Elizabeth Jackson,2023-08-22,135000.0,740,41000.0,Debt Consolidation,Loan amount is high but manageable with current income.,0
+1a2b3c4d-5e6f-0123-4567-89abcdef0123,Daniel White,2024-03-10,59000.0,630,25000.0,Vacation,Standard application with no immediate red flags.,0
+fedcba98-7654-abcdef-0123-456789abcdef,Sarah Harris,2023-01-05,49000.0,590,43000.0,Business Startup,High risk profile due to low score and high LTI ratio.,1
+01234567-89ab-fedc-ba98-76543210fedc,Matthew Martin,2022-07-28,92000.0,690,18000.0,New Car Purchase,Standard application with no immediate red flags.,0
+abcdef01-2345-1a2b-3c4d-5e6f1a2b3c4d,Karen Clark,2023-06-12,250000.0,850,50000.0,Home Improvement,Top-tier applicant with excellent financial standing.,0
+a1b2c3d4-e5f6-4a9b-8c7d-1e2f3a4b5c6d,Jennifer Williams,2023-08-15,85400.75,710,25000.0,Debt Consolidation,Applicant has a stable income and strong credit history.,0
+f7e6d5c4-b3a2-4f1e-9d8c-7b6a5f4e3d2c,Michael Brown,2022-11-21,42500.5,595,10000.0,Medical Expenses,Credit history shows some recent late payments.,1
+1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d,Linda Jones,2024-02-10,152000.0,820,45500.0,Business Loan,Loan amount is high relative to income.,1
+6d5c4b3a-2f1e-4d9c-8b7a-6f5e4d3c2b1a,Robert Garcia,2023-05-01,65100.25,685,30000.0,Home Improvement,Meets all primary lending criteria.,0
+e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b,Patricia Miller,2023-09-30,35800.0,615,8000.0,Vacation,Applicant has limited credit history.,0
+b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e,John Davis,2024-01-05,210500.0,790,49500.0,Major Purchase,"Solid financial standing, low risk despite high loan amount.",0
+9e8d7c6b-5a4f-4e3d-2c1b-0a9f8e7d6c5b,Mary Rodriguez,2022-12-12,55900.8,640,38000.0,Car Financing,"Verified employment and assets, approved.",0
+c3b2a1f0-e9d8-4c7b-6a5f-4e3d2c1b0a9f,James Martinez,2023-07-22,78300.0,735,12000.0,Debt Consolidation,Good debt-to-income ratio.,0
+4d5e6f7a-8b9c-4d1e-2f3a-4b5c6d7e8f9a,William Hernandez,2023-03-18,31500.0,520,20000.0,Moving Expenses,High debt-to-income ratio raises concerns.,1
+a0b9c8d7-e6f5-4a3b-2c1d-0e9f8a7b6c5d,David Lopez,2024-04-02,95000.0,690,41000.0,Business Loan,Loan amount is high relative to income.,1
+f1e2d3c4-b5a6-4f7e-8d9c-a0b1c2d3e4f5,Elizabeth Gonzalez,2023-11-11,115500.0,755,35000.0,Home Improvement,"Verified employment and assets, approved.",0
+5a6b7c8d-9e0f-4a1b-2c3d-4e5f6a7b8c9d,Richard Wilson,2022-10-25,48200.6,630,15000.0,Medical Expenses,Applicant has a stable income and strong credit history.,0
+d9c8b7a6-f5e4-4d3c-2b1a-0f9e8d7c6b5a,Susan Anderson,2023-06-09,62000.0,580,28000.0,Debt Consolidation,High debt-to-income ratio raises concerns.,1
+c7b6a5f4-e3d2-4c1b-0a9f-8e7d6c5b4a3f,Joseph Thomas,2024-03-20,180000.0,810,49000.0,Major Purchase,"Solid financial standing, low risk.",0
+3f4e5d6c-7b8a-4f9e-8d7c-6b5a4f3e2d1c,Jessica Taylor,2023-01-14,39900.0,550,9000.0,Car Financing,Income source could not be fully verified.,1
+2d1c0b9a-8f7e-4d6c-5b4a-3f2e1d0c9b8a,Thomas Moore,2023-12-01,72800.9,660,22000.0,Vacation,Meets all primary lending criteria.,0
+a9b8c7d6-e5f4-4a3b-2c1d-0e9f8a7b6c5d,Sarah Jackson,2022-09-05,130000.0,740,39500.0,Home Improvement,Good debt-to-income ratio.,0
+d6c5b4a3-f2e1-4d0c-9b8a-7f6e5d4c3b2a,Charles Martin,2023-10-19,51500.0,605,43000.0,Business Loan,Loan amount is high relative to income.,1
+b2a1f0e9-d8c7-4b6a-5f4e-3d2c1b0a9f8e,Karen Wilson,2024-05-01,99500.0,725,18000.0,Debt Consolidation,Applicant has a stable income and strong credit history.,0
+e9f8a7b6-c5d4-4a3b-2c1d-0e9f8a7b6c5d,Barbara Johnson,2023-04-28,45300.2,490,35000.0,Medical Expenses,Credit history shows some recent late payments.,1
+e1f1a2b3-c4d5-e6f7-g8h9-i0j1k2l3m4n5,Jennifer Smith,2023-05-15,45000.5,580,25000.0,Debt Consolidation,High risk due to low credit score.,1
+a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6,Michael Johnson,2022-11-20,150000.75,790,48000.0,Home Improvement,"Strong credit profile, low risk.",1
+f1e2d3c4-b5a6-9876-5432-10fedcba9876,Mary Williams,2024-01-10,85000.0,680,35000.0,Car Purchase,High debt-to-income ratio noted.,0
+abcdef12-3456-7890-1234-567890abcdef,David Brown,2023-08-01,210000.25,820,45000.0,Business Investment,"Strong credit profile, low risk.",1
+fedcba09-8765-4321-0fed-cba987654321,Patricia Jones,2022-09-05,38000.0,450,10000.0,Medical Expenses,High risk due to low credit score.,1
+12345678-abcd-efab-cdef-1234567890ab,Robert Garcia,2023-03-22,62000.0,610,42000.5,Debt Consolidation,High debt-to-income ratio noted.,1
+aabbccdd-eeff-0011-2233-445566778899,Linda Miller,2024-02-18,95000.0,710,20000.0,Home Improvement,"Standard review, appears stable.",0
+99887766-5544-3322-1100-ffeeddccbbaa,William Davis,2023-12-30,110000.8,730,49500.0,Major Purchase,"Standard review, appears stable.",1
+c3b2a1f0-e5d4-c3b2-a1f0-e5d4c3b2a1f0,Elizabeth Rodriguez,2022-07-14,52000.0,630,15000.0,Vacation,"Standard review, appears stable.",0
+d4e5f6a1-b2c3-d4e5-f6a1-b2c3d4e5f6a1,James Martinez,2023-10-02,78000.0,655,39000.0,Car Purchase,High debt-to-income ratio noted.,0
+1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,Susan Hernandez,2024-03-01,32000.0,390,8000.0,Medical Expenses,High risk due to low credit score.,1
+f0e9d8c7-b6a5-f4e3-d2c1-b0a9f8e7d6c5,Joseph Lopez,2022-08-25,180000.0,760,30000.0,Business Investment,"Strong credit profile, low risk.",0
+6d5c4b3a-2f1e-0d9c-8b7a-6f5e4d3c2b1a,Jessica Gonzalez,2023-06-11,99000.0,700,41000.0,Debt Consolidation,High debt-to-income ratio noted.,1
+7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d,Thomas Wilson,2023-02-09,41000.0,595,22000.0,Home Improvement,High risk due to low credit score.,1
+b1a0f9e8-d7c6-b5a4-f3e2-d1c0b9a8f7e6,Charles Anderson,2022-10-18,245000.0,840,49999.0,Major Purchase,"Strong credit profile, low risk.",0
+2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f,Sarah Taylor,2024-04-05,72000.0,670,18000.0,Education,"Standard review, appears stable.",0
+8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c,Richard Moore,2023-09-28,58000.0,605,30000.0,Debt Consolidation,High debt-to-income ratio noted.,0
+e7f6a5b4-c3d2-e1f0-a9b8-c7d6e5f4a3b2,Nancy Jackson,2022-12-12,130000.0,740,28000.0,Car Purchase,"Standard review, appears stable.",0
+4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d,John Martin,2023-07-21,49000.0,550,43000.0,Business Investment,High risk due to low credit score.,1
+d9e8f7a6-b5c4-d3e2-f1a0-b9c8d7e6f5a4,Karen Thomas,2024-01-25,105000.0,690,46000.0,Home Improvement,High debt-to-income ratio noted.,1
+f9b8c2a1-e4f5-4d6c-8a2b-3c4d5e6f7a8b,Laura Gonzalez,2023-11-20,135487.55,789,48755.21,Home Improvement,Loan amount is large relative to income.,1
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Michael Smith,2024-03-15,55243.89,580,27890.12,Debt Consolidation,High risk due to low credit score.,1
+b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e,Jessica Williams,2022-12-01,145876.32,810,39500.5,Car Purchase,Applicant shows strong financial stability.,0
+c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f,David Jones,2023-08-22,89453.78,695,42100.0,Business Investment,Loan amount is large relative to income.,1
+d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g,Sarah Garcia,2024-01-05,42789.45,455,15200.75,Medical Expenses,History of late payments noted.,1
+e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h,Chris Miller,2023-05-19,180321.9,835,49500.0,Home Improvement,Loan amount is large relative to income.,0
+f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8g9h0i,Amanda Davis,2022-10-11,75643.21,720,22000.0,Debt Consolidation,Solid credit profile.,0
+a7b8c9d0-e1f2-4a3b-4c5d-6e7f8g9h0i1j,Robert Martinez,2024-04-01,38987.11,350,8500.6,Major Purchase,High risk due to low credit score.,1
+b8c9d0e1-f2a3-4b4c-5d6e-7f8g9h0i1j2k,Linda Rodriguez,2023-02-28,110456.88,765,35000.0,Vacation,Credit history is excellent.,0
+c9d0e1f2-a3b4-4c5d-6e7f-8g9h0i1j2k3l,William Hernandez,2023-09-14,95210.4,650,41500.9,Business Investment,Loan amount is large relative to income.,0
+d0e1f2a3-b4c5-4d6e-7f8g-9h0i1j2k3l4m,Karen Lopez,2022-08-03,48765.99,590,19800.0,Car Purchase,High risk due to low credit score.,1
+e1f2a3b4-c5d6-4e7f-8g9h-0i1j2k3l4m5n,Richard Wilson,2024-05-20,165432.1,805,48000.0,Home Improvement,Loan amount is large relative to income.,1
+f2a3b4c5-d6e7-4f8g-9h0i-1j2k3l4m5n6o,Susan Anderson,2023-01-18,62345.67,680,25000.0,Debt Consolidation,Steady employment and income.,0
+a3b4c5d6-e7f8-4a9h-0i1j-2k3l4m5n6o7p,Joseph Thomas,2023-10-30,51234.56,520,33000.0,Medical Expenses,High debt-to-income ratio.,1
+b4c5d6e7-f8a9-4b0i-1j2k-3l4m5n6o7p8q,Nancy Taylor,2024-02-14,125678.9,770,15000.0,Education,Low debt-to-income ratio observed.,0
+c5d6e7f8-a9b0-4c1j-2k3l-4m5n6o7p8q9r,James Moore,2022-11-25,88421.55,615,44567.89,Car Purchase,Loan amount is large relative to income.,1
+d6e7f8a9-b0c1-4d2k-3l4m-5n6o7p8q9r0s,John Jackson,2023-07-07,32109.87,410,9900.0,Major Purchase,Recent credit inquiries are a concern.,1
+e7f8a9b0-c1d2-4e3l-4m5n-6o7p8q9r0s1t,Emily White,2023-04-12,195432.5,845,28000.0,Business Investment,Applicant shows strong financial stability.,0
+f8a9b0c1-d2e3-4f4m-5n6o-7p8q9r0s1t2u,Daniel Brown,2022-09-09,105876.12,730,46789.01,Home Improvement,Loan amount is large relative to income.,0
+a9b0c1d2-e3f4-4a5n-6o7p-8q9r0s1t2u3v,Jane Johnson,2024-06-01,59876.54,640,12345.67,Debt Consolidation,Steady employment and income.,0
+a1b2c3d4-e5f6-4a5b-8c9d-0f1e2d3c4b5a,Jennifer Smith,2023-05-15,45200.75,585,15500.0,Debt Consolidation,Low credit score presents a significant risk.,1
+b2c3d4e5-f6a7-4b6c-9d0e-1a2b3c4d5e6f,Michael Johnson,2024-01-20,125000.5,780,25000.0,Home Improvement,Strong credit history and stable income.,0
+c3d4e5f6-a7b8-4c7d-8e1f-2b3c4d5e6f7a,Linda Williams,2022-11-01,75000.0,690,45000.0,Business Loan,Loan amount is high relative to annual income.,1
+d4e5f6a7-b8c9-4d8e-9f2a-3c4d5e6f7a8b,David Brown,2023-08-10,62000.25,610,38000.0,Car Purchase,"Borderline credit score, requires careful consideration.",0
+e5f6a7b8-c9d0-4e9f-a03b-4d5e6f7a8b9c,Susan Jones,2023-02-28,38500.0,550,48000.5,Medical Expenses,History of late payments is a concern.,1
+f6a7b8c9-d0e1-4f0a-b14c-5e6f7a8b9c0d,Robert Garcia,2024-03-05,180000.0,820,49500.0,Major Purchase,Loan amount is high relative to annual income.,1
+a7b8c9d0-e1f2-4a1b-c25d-6f7a8b9c0d1e,Mary Miller,2022-09-19,95000.8,710,22000.0,Vacation,Applicant meets all primary lending criteria.,0
+b8c9d0e1-f2a3-4b2c-d36e-7a8b9c0d1e2f,William Davis,2023-12-24,51000.0,640,18000.0,Debt Consolidation,Further review of payment history is recommended.,0
+c9d0e1f2-a3b4-4c3d-e47f-8b9c0d1e2f3a,Patricia Rodriguez,2023-07-07,32000.0,450,8000.0,Medical Expenses,Low credit score presents a significant risk.,1
+d0e1f2a3-b4c5-4d4e-f58a-9c0d1e2f3a4b,John Martinez,2024-04-01,210500.9,850,35000.0,Home Improvement,"Solid financial standing, recommended for approval.",0
+e1f2a3b4-c5d6-4e5f-a69b-0d1e2f3a4b5c,Richard Hernandez,2022-08-14,88000.0,660,41000.0,Business Loan,Loan amount is high relative to annual income.,1
+f2a3b4c5-d6e7-4f6a-b70c-1e2f3a4b5c6d,Charles Lopez,2023-10-30,49000.0,595,20000.0,Car Purchase,Low credit score presents a significant risk.,1
+a3b4c5d6-e7f8-4a7b-c81d-2f3a4b5c6d7e,Joseph Gonzalez,2024-02-11,115000.0,730,15000.0,Education Expenses,Applicant meets all primary lending criteria.,0
+b4c5d6e7-f8a9-4b8c-d92e-3a4b5c6d7e8f,Thomas Wilson,2023-01-05,72000.0,680,39500.0,Major Purchase,Further review of payment history is recommended.,0
+c5d6e7f8-a9b0-4c9d-ea3f-4b5c6d7e8f9a,Jessica Anderson,2022-12-12,65000.0,620,44000.0,Debt Consolidation,Loan amount is high relative to annual income.,1
+d6e7f8a9-b0c1-4dae-fb4a-5c6d7e8f9a0b,Sarah Thomas,2023-06-21,150000.0,790,30000.0,Home Improvement,Strong credit history and stable income.,0
+e7f8a9b0-c1d2-4ebf-ac5b-6d7e8f9a0b1c,Karen Taylor,2022-10-03,41000.0,570,12000.0,Car Purchase,Low credit score presents a significant risk.,1
+f8a9b0c1-d2e3-4fc0-bd6c-7e8f9a0b1c2d,Nancy Moore,2024-03-18,98000.0,700,49000.0,Business Loan,Loan amount is high relative to annual income.,1
+a9b0c1d2-e3f4-4ad1-ce7d-8f9a0b1c2d3e,Elizabeth Jackson,2023-04-09,82000.0,725,10000.0,Vacation,Low risk profile with consistent payment history.,0
+b0c1d2e3-f4a5-4be2-df8e-9a0b1c2d3e4f,James Martin,2022-07-25,55000.0,605,28000.0,Debt Consolidation,"Borderline credit score, requires careful consideration.",0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45000.75,580,38500.0,Debt Consolidation,Low credit score presents a significant risk.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Johnson,2022-11-20,155200.5,790,25000.0,Home Improvement Project,Strong candidate with excellent credit history and stable income.,0
+11223344-5566-7788-99aa-bbccddeeff00,Linda Williams,2024-01-10,82000.0,695,48000.0,New Car Purchase,High loan amount relative to income is a concern.,1
+aabbccdd-eeff-0011-2233-445566778899,Robert Jones,2023-08-01,65500.25,650,15000.0,Medical Bill Payment,Standard review indicates a moderate risk profile.,0
+fedcba98-7654-3210-fedc-ba9876543210,Patricia Brown,2022-09-25,38000.0,520,8000.0,Small Business Investment,Applicant's credit history shows recent delinquencies.,1
+98765432-10fe-dcba-9876-543210fedcba,John Davis,2024-03-18,210000.0,820,49500.0,Debt Consolidation,"High loan amount, but strong income and credit justify approval.",0
+abcdef12-3456-7890-abcd-ef1234567890,Mary Miller,2023-02-14,71000.8,680,22000.0,Major Appliance Purchase,"Income verified, but credit utilization is high.",0
+01234567-89ab-cdef-0123-456789abcdef,David Rodriguez,2023-10-30,52000.0,610,41000.0,Vacation Funding,Loan amount exceeds recommended DTI ratio.,1
+deadbeef-cafe-babe-d00d-feedfaceb00c,Barbara Martinez,2022-07-07,95000.0,720,35000.0,Tuition Fees,Applicant meets all primary lending criteria.,0
+b0b1b2b3-b4b5-b6b7-b8b9-bacbdbebfb0b,William Hernandez,2024-04-01,32000.5,450,12000.0,Medical Bill Payment,Very low credit score indicates high probability of default.,1
+c1c2c3c4-c5c6-c7c8-c9ca-cbcccdcecfc1,Elizabeth Lopez,2023-06-22,180000.0,760,50000.0,Home Improvement Project,"Maximum loan amount requested, poses moderate risk despite good credit.",0
+d2d3d4d5-d6d7-d8d9-dada-dbdcddecfd2d,Joseph Gonzalez,2023-12-12,68000.0,630,39000.0,Debt Consolidation,Standard review indicates a moderate risk profile.,0
+e3e4e5e6-e7e8-e9ea-ebeb-ececedeeefe3,Susan Wilson,2022-10-05,41000.0,595,20000.0,New Car Purchase,Borderline credit score requires careful consideration.,1
+f4f5f6f7-f8f9-fafa-fbfb-fcfdfefff4f5,Richard Moore,2024-02-28,110000.0,710,42000.0,Small Business Investment,High loan amount is the primary risk factor.,1
+0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,Jessica Taylor,2023-09-11,89000.0,740,10000.0,Vacation Funding,Low debt-to-income ratio and high credit score.,0
+1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e,James Anderson,2022-08-19,55000.0,605,30000.0,Debt Consolidation,Stable employment but limited credit history.,0
+2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f,Karen Thomas,2023-03-03,135000.9,755,45000.0,Home Improvement Project,Loan amount is high but justified by income and assets.,0
+3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8g,Thomas Jackson,2024-05-02,33000.0,510,5500.0,Major Appliance Purchase,Low income and poor credit score present high risk.,1
+4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8g9h,Nancy White,2023-07-21,78000.0,685,28000.0,New Car Purchase,Applicant meets all primary lending criteria.,0
+5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8g9h0i,Daniel Harris,2022-12-24,92000.0,660,46000.0,Debt Consolidation,High loan amount requested for debt consolidation.,1
+e4a9e4d1-6c2e-4b8b-8c8d-1a2b3c4d5e6f,Jennifer Williams,2023-10-15,45250.78,585,42100.5,Debt Consolidation,High risk profile due to low credit score.,1
+f5b0f5e2-7d3f-4c9c-9d9e-2b3c4d5e6f7a,Michael Smith,2024-03-22,185600.25,810,25000.0,Home Improvement,Applicant meets all standard lending criteria.,0
+a6c1a6f3-8e4a-4da-aead-3c4d5e6f7a8b,Linda Brown,2022-11-05,78900.0,695,35500.75,Car Purchase,Solid credit history and stable income.,0
+b7d2b7a4-9f5b-5eb-bfbf-4d5e6f7a8b9c,Robert Jones,2023-08-19,32150.9,450,8500.0,Medical Expenses,Applicant's income to loan ratio is concerning.,1
+c8e3c8b5-0a6c-6fc-c0c0-5e6f7a8b9c0d,Patricia Garcia,2024-01-30,125000.5,720,48500.0,Business Loan,Large loan amount poses a significant risk.,1
+d9f4d9c6-1b7d-70d-d1d1-6f7a8b9c0d1e,John Miller,2023-05-12,95000.0,740,15000.0,Major Purchase,"Standard risk profile, approved for funding.",0
+e0a5e0d7-2c8e-81e-e2e2-7a8b9c0d1e2f,Mary Davis,2022-09-01,62300.8,610,22000.0,Vacation,Solid credit history and stable income.,0
+f1b6f1e8-3d9f-92f-f3f3-8b9c0d1e2f3a,James Rodriguez,2024-04-08,49500.0,595,18000.0,Debt Consolidation,High risk profile due to low credit score.,1
+a2c7a2f9-4ea0-a30-0404-9c0d1e2f3a4b,William Martinez,2023-12-25,210500.75,835,49900.0,Home Improvement,Large loan amount poses a significant risk.,0
+b3d8b30a-5fb1-b41-1515-0d1e2f3a4b5c,Elizabeth Hernandez,2023-02-14,88000.0,715,30000.0,Education,Applicant meets all standard lending criteria.,0
+c4e9c41b-60c2-c52-2626-1e2f3a4b5c6d,David Lopez,2022-07-20,41000.0,550,12500.0,Car Purchase,High risk profile due to low credit score.,1
+d5f0d52c-71d3-d63-3737-2f3a4b5c6d7e,Susan Gonzalez,2023-11-11,155200.0,790,41500.99,Business Loan,Large loan amount poses a significant risk.,0
+e601e63d-82e4-e74-4848-3a4b5c6d7e8f,Richard Wilson,2024-05-01,53400.0,640,28000.0,Debt Consolidation,Solid credit history and stable income.,0
+f712f74e-93f5-f85-5959-4b5c6d7e8f9a,Jessica Anderson,2022-10-02,38800.0,520,43000.0,Medical Expenses,Applicant's income to loan ratio is concerning.,1
+a823a85f-a406-096-6a6a-5c6d7e8f9a0b,Joseph Thomas,2023-07-04,110000.0,760,49000.0,Major Purchase,Large loan amount poses a significant risk.,1
+b934b960-b517-1a7-7b7b-6d7e8f9a0b1c,Sarah Taylor,2024-02-28,72500.0,680,19500.0,Home Improvement,"Standard risk profile, approved for funding.",0
+ca45ca71-c628-2b8-8c8c-7e8f9a0b1c2d,Charles Moore,2023-01-18,245000.0,845,50000.0,Business Loan,Large loan amount poses a significant risk.,0
+db56db82-d739-3c9-9d9d-8f9a0b1c2d3e,Karen Jackson,2022-12-09,31500.5,380,5500.0,Debt Consolidation,High risk profile due to low credit score.,1
+ec67ec93-e84a-4da-aeae-9a0b1c2d3e4f,Thomas Martin,2023-09-30,98200.0,730,39500.0,Car Purchase,Applicant meets all standard lending criteria.,0
+fd78fd04-f95b-5eb-bfbf-a0b1c2d3e4f0,Nancy Garcia,2024-06-01,65000.0,665,44000.0,Home Improvement,Large loan amount poses a significant risk.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-05-15,45000.75,580,42500.5,Car Purchase,High risk due to low credit score.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Smith,2024-01-20,125000.0,785,30000.0,Home Improvement,Strong credit profile and stable income.,0
+11223344-5566-7788-99aa-bbccddeeff00,Linda Brown,2022-11-01,78000.5,690,15000.0,Debt Consolidation,Applicant meets minimum requirements.,0
+a2b3c4d5-f6e7-8901-2345-67890abcdef1,Robert Jones,2023-08-22,32000.0,450,8000.0,Medical Expenses,Applicant has a history of late payments.,1
+b3c4d5e6-a7f8-9012-3456-7890abcdef12,Patricia Garcia,2024-03-10,210000.0,810,48000.0,Business Investment,"High loan amount, but strong profile mitigates risk.",0
+c4d5e6f7-b8a9-0123-4567-890abcdef123,David Miller,2022-07-30,60000.25,615,39500.0,Major Purchase,Stable income but moderate debt-to-income ratio.,0
+d5e6f7a8-c9ba-1234-5678-90abcdef1234,Mary Davis,2023-12-05,95000.0,710,22000.0,Vacation,Applicant meets minimum requirements.,0
+e6f7a8b9-dbac-2345-6789-0abcdef12345,James Rodriguez,2024-04-18,38500.0,595,10000.0,Car Purchase,High risk due to low credit score.,1
+f7a8b9c0-edcb-3456-7890-abcdef123456,Susan Martinez,2023-02-14,150000.0,760,49500.0,Home Improvement,Requested amount is at the upper limit of policy.,1
+a8b9c0d1-fedc-4567-8901-bcdef1234567,William Hernandez,2022-09-09,82000.8,670,18000.0,Debt Consolidation,Applicant meets minimum requirements.,0
+b9c0d1e2-afed-5678-9012-cdef12345678,Elizabeth Lopez,2023-06-25,41000.0,605,5500.0,Medical Expenses,Stable income but moderate debt-to-income ratio.,0
+c0d1e2f3-bafe-6789-0123-def123456789,Joseph Gonzalez,2024-05-01,180000.0,820,45000.0,Business Investment,Low risk applicant with excellent payment history.,0
+d1e2f3a4-cbaf-7890-1234-ef1234567890,Jessica Wilson,2022-12-12,65000.0,640,41000.0,Major Purchase,High loan-to-income ratio requires review.,1
+e2f3a4b5-dcba-8901-2345-f12345678901,Richard Anderson,2023-10-31,110000.0,730,20000.0,Debt Consolidation,Applicant is well-qualified for the requested amount.,0
+f3a4b5c6-edcb-9012-3456-123456789012,Barbara Thomas,2024-02-28,52000.0,555,12000.0,Car Purchase,Limited credit history poses a risk.,1
+a4b5c6d7-fedc-0123-4567-234567890123,John Taylor,2023-01-05,88000.0,705,35000.0,Home Improvement,Applicant meets minimum requirements.,0
+b5c6d7e8-afed-1234-5678-345678901234,Nancy Moore,2022-08-19,230000.0,790,50000.0,Business Investment,Substantial loan amount; collateral verification needed.,0
+c6d7e8f9-bafe-2345-6789-456789012345,Charles Jackson,2023-09-11,31000.0,510,6000.0,Medical Expenses,High risk due to low credit score.,1
+d7e8f9a0-cbaf-3456-7890-567890123456,Karen White,2024-04-02,72000.0,680,28000.0,Debt Consolidation,Stable income but moderate debt-to-income ratio.,0
+e8f9a0b1-dcba-4567-8901-678901234567,Thomas Harris,2023-07-07,135000.0,745,46000.0,Major Purchase,High loan-to-income ratio requires review.,1
+f47ac10b-58cc-4372-a567-0e02b2c3d479,Jennifer Williams,2023-09-15,48500.75,585,22500.0,Debt Consolidation,High risk profile due to low credit score.,1
+0a8b1c2d-3e4f-5678-9012-3456789abcde,Michael Smith,2024-01-20,125000.5,790,45000.0,Home Improvement,Strong credit profile and stable income.,1
+11223344-5566-7788-99aa-bbccddeeff00,Linda Brown,2022-11-05,85000.0,710,15000.0,Car Financing,Applicant meets standard lending criteria.,0
+c3d4e5f6-7890-1234-5678-90abcdef1234,Robert Jones,2023-03-12,35000.25,450,10000.0,Medical Expenses,High risk profile due to low credit score.,1
+78901234-5678-90ab-cdef-1234567890ab,Patricia Garcia,2024-05-01,150000.0,820,35000.0,Business Loan,Strong credit profile and stable income.,0
+2b3c4d5e-6f78-9012-3456-7890abcdef12,John Miller,2023-07-22,65000.0,670,48000.0,Major Purchase,Applicant meets standard lending criteria.,1
+6f789012-3456-7890-abcd-ef1234567890,Mary Davis,2022-12-30,95000.8,740,20000.0,Vacation,Applicant meets standard lending criteria.,0
+90123456-7890-abcd-ef12-34567890abcd,James Rodriguez,2023-10-18,42000.0,610,8000.0,Educational Expenses,"Borderline case, requires further review.",0
+abcdef12-3456-7890-1234-567890abcdef,William Martinez,2024-02-08,180000.0,760,49500.0,Home Improvement,Strong credit profile and stable income.,1
+34567890-abcd-ef12-3456-7890abcdef12,Elizabeth Hernandez,2023-06-14,55000.0,640,18000.0,Car Financing,"Borderline case, requires further review.",0
+890abcde-f123-4567-890a-bcdef1234567,David Lopez,2022-09-03,31000.0,520,7500.0,Debt Consolidation,High risk profile due to low credit score.,1
+ef123456-7890-abcd-ef12-34567890abcd,Barbara Gonzalez,2023-11-25,72000.0,690,25000.0,Major Purchase,Applicant meets standard lending criteria.,0
+4567890a-bcde-f123-4567-890abcdef123,Richard Wilson,2024-03-29,110000.0,730,42000.0,Business Loan,Applicant meets standard lending criteria.,0
+cdef1234-5678-90ab-cdef-1234567890ab,Susan Anderson,2023-01-07,49000.5,630,12000.0,Moving Costs,"Borderline case, requires further review.",0
+7890abcd-ef12-3456-7890-abcdef123456,Joseph Thomas,2022-10-10,38000.0,550,19000.0,Medical Expenses,High risk profile due to low credit score.,1
+bcdef123-4567-890a-bcde-f1234567890a,Jessica Taylor,2024-04-19,98000.0,725,30000.0,Debt Consolidation,Applicant meets standard lending criteria.,0
+67890abc-def1-2345-6789-0abcdef12345,Thomas Moore,2023-08-01,195000.0,840,49900.0,Home Improvement,Strong credit profile and stable income.,0
+12345678-90ab-cdef-1234-567890abcdef,Sarah Jackson,2023-02-14,62000.0,660,21000.0,Car Financing,Applicant meets standard lending criteria.,0
+ab123cde-f456-7890-1234-567890abcdef,Charles Martin,2022-12-01,41000.0,595,15000.0,Major Purchase,High risk profile due to low credit score.,1
+de456fab-c123-4567-8901-234567890abc,Karen Johnson,2024-05-11,88000.0,700,28000.0,Vacation,Applicant meets standard lending criteria.,0
+f8c3de3d-1fea-4d7c-a8b0-29f5387cfa01,Olivia Rodriguez,2023-05-10,85240.55,695,27500.0,Debt consolidation,Stable employment and income.,0
+a1b9c8d0-3e2d-4f5c-8a7b-6d9e0f1a2b3c,Liam Smith,2022-11-21,45100.75,580,15000.0,Medical expenses,High risk due to poor credit history.,1
+c7e6d5f4-a3b2-4c1d-8e9f-0a1b2c3d4e5f,Noah Martinez,2024-01-15,155600.0,780,48500.5,Business investment,Loan amount is high relative to income.,1
+3d2e1f0a-9b8c-4d7e-8f6a-5b4c3d2e1f0a,Emma Johnson,2023-08-01,195320.9,821,12000.0,Vacation funding,Applicant meets all primary criteria.,0
+e9f8a7b6-c5d4-4e3f-8a2b-1c0d9e8f7a6b,Oliver Williams,2023-03-30,62300.2,615,22000.0,Home improvement project,Credit history is short but clean.,0
+1a0b9c8d-7e6f-4d5c-ba4b-3c2d1e0f9a8b,Ava Brown,2022-07-19,32500.0,520,8000.0,"Major purchase (e.g., car)","Borderline case, requires manual review.",1
+b8c7d6e5-f4a3-4b2c-1d0e-9f8a7b6c5d4e,Elijah Jones,2024-04-05,98750.0,710,39500.0,Debt consolidation,Strong income but high debt-to-income ratio.,0
+4f3e2d1c-0b9a-4c8d-7e6f-5a4b3c2d1e0f,Charlotte Garcia,2023-12-11,210400.5,835,45000.0,Home improvement project,Loan amount is high relative to income.,1
+d1e0f9a8-b7c6-4d5e-3f2a-1c0b9d8e7f6a,William Miller,2022-09-02,75900.0,670,33000.0,Business investment,Clear purpose and solid repayment plan.,0
+a9b8c7d6-e5f4-4a3b-2c1d-0e9f8a7b6c5d,Sophia Davis,2024-02-28,51200.8,605,18000.0,Educational expenses,Stable employment and income.,0
+6f5e4d3c-2b1a-4c9d-8e7f-6a5b4c3d2e1f,James Wilson,2023-06-20,39800.0,490,10000.0,Medical expenses,High risk due to poor credit history.,1
+c4d3e2f1-a0b9-4c8d-7e6f-5a4b3c2d1e0f,Amelia Anderson,2023-10-18,125000.0,740,49000.0,"Major purchase (e.g., car)",Loan amount is high relative to income.,1
+2a1b0c9d-8e7f-4d6c-5b4a-3c2d1e0f9a8b,Benjamin Thomas,2022-08-14,180100.3,795,25000.0,Debt consolidation,Applicant meets all primary criteria.,0
+e8f7a6b5-c4d3-4e2f-1a0b-9c8d7e6f5a4b,Isabella Taylor,2024-03-09,68400.0,655,20000.0,Home improvement project,Clear purpose and solid repayment plan.,0
+9d8e7f6a-5b4c-4d3e-2f1a-0c9b8d7e6f5a,Lucas Moore,2023-01-05,48900.0,595,19500.0,Debt consolidation,"Borderline case, requires manual review.",1
+7c6b5a4d-3e2f-4c1d-0a9b-8d7e6f5a4b3c,Mia Jackson,2022-12-25,115000.0,725,41000.0,Business investment,Loan amount is high relative to income.,1
+b5a4c3d2-e1f0-4a9b-8d7e-6f5a4b3c2d1e,Henry Martin,2023-07-07,225000.0,845,30000.0,Vacation funding,Applicant meets all primary criteria.,0
+d3e2f1a0-b9c8-4d7e-6f5a-4b3c2d1e0f9a,Evelyn Hernandez,2024-05-01,82000.0,680,24000.0,"Major purchase (e.g., car)",Stable employment and income.,0
+1f0a9b8c-7d6e-4f5a-4b3c-2d1e0f9a8b7c,Alexander Lopez,2023-09-22,35500.6,540,14000.0,Medical expenses,High risk due to poor credit history.,1
+8e7f6a5b-4c3d-2e1f-0a9b-8d7e6f5a4b3c,Harper Gonzalez,2022-10-30,95000.0,700,38000.0,Home improvement project,Strong income but high debt-to-income ratio.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Robert Garcia,2023-05-10,45000.75,580,38000.0,Debt Consolidation,High risk due to low credit score.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Jennifer Martinez,2022-11-22,120000.5,740,25000.0,Home Improvement,"Standard application, meets initial criteria.",0
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Michael Brown,2024-01-15,85000.0,680,45000.0,Car Purchase,Large loan amount requires further review.,1
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Linda Smith,2023-08-01,32000.25,450,10000.0,Medical Expenses,High risk due to low credit score.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,William Jones,2023-02-28,180000.0,810,48000.0,Business Loan,"Large loan amount, but strong credit profile.",0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Patricia Williams,2024-03-10,75000.0,710,15000.0,Vacation,"Standard application, meets initial criteria.",0
+a7b8c9d0-e1f2-3456-7890-abcdef123456,David Miller,2022-09-05,95000.8,690,30000.0,Debt Consolidation,Applicant meets all standard lending criteria.,0
+b8c9d0e1-f2a3-4567-8901-bcdef1234567,Susan Davis,2023-12-18,40000.0,610,8000.0,Major Purchase,"Standard application, meets initial criteria.",0
+c9d0e1f2-a3b4-5678-9012-cdef12345678,Joseph Rodriguez,2024-04-01,62000.0,590,22000.0,Home Improvement,High risk due to low credit score.,1
+d0e1f2a3-b4c5-6789-0123-def123456789,Jessica Hernandez,2023-06-20,210000.0,790,35000.0,Car Purchase,Applicant has a strong financial history.,0
+e1f2a3b4-c5d6-7890-1234-ef1234567890,Thomas Lopez,2023-10-11,55000.5,640,41000.0,Business Loan,Large loan amount requires further review.,1
+f2a3b4c5-d6e7-8901-2345-f12345678901,Sarah Gonzalez,2022-12-01,135000.0,760,18000.0,Medical Expenses,"Standard application, meets initial criteria.",0
+a3b4c5d6-e7f8-9012-3456-123456789012,Charles Wilson,2024-02-05,38000.0,520,12000.0,Debt Consolidation,Credit history indicates potential repayment issues.,1
+b4c5d6e7-f8a9-0123-4567-234567890123,Karen Anderson,2023-03-15,98000.0,720,49500.0,Home Improvement,"Large loan amount, but income supports it.",0
+c5d6e7f8-a9b0-1234-5678-345678901234,James Taylor,2023-07-29,68000.0,660,20000.0,Car Purchase,"Standard application, meets initial criteria.",0
+d6e7f8a9-b0c1-2345-6789-456789012345,Mary Moore,2023-01-10,160000.0,780,50000.0,Business Loan,"Loan amount at maximum limit, requires sign-off.",1
+e7f8a9b0-c1d2-3456-7890-567890123456,John Jackson,2022-10-30,42000.9,550,15000.0,Major Purchase,High risk due to low credit score.,1
+f8a9b0c1-d2e3-4567-8901-678901234567,Elizabeth Martin,2024-05-02,110000.0,730,39000.0,Debt Consolidation,"Standard application, meets initial criteria.",0
+a9b0c1d2-e3f4-5678-9012-789012345678,Richard Thomas,2023-09-14,72000.0,630,28000.0,Home Improvement,Applicant meets all standard lending criteria.,1
+b0c1d2e3-f4a5-6789-0123-890123456789,Barbara White,2023-04-25,240000.0,830,42000.0,Vacation,Applicant has a strong financial history.,0
+f9a8c1e2-b3d4-4e5f-8a6b-7c8d9e0f1a2b,Sarah Martinez,2023-11-15,45281.75,589,28745.11,Debt Consolidation,Low credit score is a primary concern.,1
+1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e,Michael Smith,2022-09-01,165432.89,785,48550.23,Home Improvement,Applicant presents a strong financial history.,1
+6a7b8c9d-0e1f-4a2b-3c4d-5e6f7a8b9c0d,Jessica Taylor,2024-03-22,89123.45,690,15234.87,Car Financing,Standard review of application details completed.,0
+d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5g,David Johnson,2023-06-10,120500.6,720,41500.0,Business Loan,Application flagged as high-risk during processing.,1
+h6i7j8k9-l0m1-4n2o-3p4q-5r6s7t8u9v0w,Linda Brown,2022-12-05,58990.12,645,22000.0,Medical Expenses,Standard review of application details completed.,0
+x1y2z3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5g,Robert Williams,2024-01-18,75000.0,615,49000.75,Debt Consolidation,High loan-to-income ratio noted.,1
+c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f,Patricia Jones,2023-08-29,32150.8,450,10500.0,Major Purchase,Low credit score is a primary concern.,1
+g9h0i1j2-k3l4-4m5n-6o7p-8q9r0s1t2u3v,William Davis,2023-02-14,210876.54,810,35000.0,Vacation,Applicant presents a strong financial history.,0
+w4x5y6z7-a8b9-4c0d-1e2f-3a4b5c6d7e8f,Jennifer Miller,2022-10-20,95400.0,710,20000.0,Home Improvement,Standard review of application details completed.,0
+f8g9h0i1-j2k3-4l4m-5n6o-7p8q9r0s1t2u,James Wilson,2024-05-01,41200.3,595,38000.0,Car Financing,High loan-to-income ratio noted.,1
+v3w4x5y6-z7a8-4b9c-0d1e-2f3a4b5c6d7e,Mary Moore,2023-07-04,68750.0,665,12000.0,Educational Expenses,Standard review of application details completed.,0
+e7f8g9h0-i1j2-4k3l-4m5n-6o7p8q9r0s1t,John Anderson,2022-11-11,135000.0,740,49500.0,Business Loan,Application flagged as high-risk during processing.,1
+u2v3w4x5-y6z7-4a8b-9c0d-1e2f3a4b5c6d,Susan Garcia,2023-04-19,52300.9,510,25000.0,Debt Consolidation,Low credit score is a primary concern.,1
+t1u2v3w4-x5y6-4z7a-8b9c-0d1e2f3a4b5c,Joseph Rodriguez,2024-02-28,198500.0,795,45000.0,Major Purchase,Applicant presents a strong financial history.,0
+s0t1u2v3-w4x5-4y6z-7a8b-9c0d1e2f3a4b,Barbara Hernandez,2023-09-30,81200.0,680,8500.0,Vacation,Standard review of application details completed.,0
+r9s0t1u2-v3w4-4x5y-6z7a-8b9c0d1e2f3a,Richard Lopez,2022-08-17,62000.0,625,42000.5,Home Improvement,High loan-to-income ratio noted.,1
+q8r9s0t1-u2v3-4w4x-5y6z-7a8b9c0d1e2f,Karen Gonzalez,2024-04-05,35800.0,390,18000.0,Medical Expenses,Low credit score is a primary concern.,1
+p7q8r9s0-t1u2-4v3w-4x5y-6z7a8b9c0d1e,Thomas Jackson,2023-01-25,115000.0,730,30000.0,Car Financing,Standard review of application details completed.,0
+o6p7q8r9-s0t1-4u2v-3w4x-5y6z7a8b9c0d,Elizabeth Martin,2023-10-12,99500.5,705,25000.0,Debt Consolidation,Standard review of application details completed.,0
+n5o6p7q8-r9s0-4t1u-2v3w-4x5y6z7a8b9c,Charles Thomas,2022-07-22,72000.0,555,47000.0,Business Loan,High loan-to-income ratio noted.,1
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Olivia Smith,2023-05-15,85240.55,710,25000.0,Debt Consolidation,"Standard application, income verified.",0
+f1e2d3c4-b5a6-4f7e-8d9c-0a1b2c3d4e5f,Liam Johnson,2022-11-21,42500.75,585,15000.0,New Car Purchase,High risk due to poor credit history.,1
+12345678-90ab-4cde-8f01-234567890abc,Emma Williams,2024-01-05,155000.0,795,48000.0,Home Improvement,Applicant presents a low-risk profile with strong financials.,1
+def01234-5678-490a-bcde-f01234567890,Noah Brown,2023-08-30,65300.2,640,35000.0,Business Startup Capital,Debt-to-income ratio is acceptable but warrants monitoring.,0
+5a6b7c8d-9e0f-4123-8456-7890abcdef12,Amelia Jones,2022-07-19,38000.0,550,8000.0,Medical Emergency Fund,High risk due to poor credit history.,1
+34567890-abcd-4ef0-1234-567890abcdef,Oliver Garcia,2024-03-11,180000.0,820,45000.0,Debt Consolidation,Applicant presents a low-risk profile with strong financials.,0
+98765432-10fe-4dcb-a987-6543210fedcb,Ava Miller,2023-02-28,72000.0,680,22000.0,Educational Expenses,"Standard application, income verified.",0
+fedcba98-7654-4321-8fed-cba987654321,Elijah Davis,2023-12-01,51000.0,610,42000.0,New Car Purchase,Insufficient income for the requested loan amount.,1
+abcdef01-2345-4678-890a-bcdef0123456,Sophia Rodriguez,2022-09-10,95000.0,730,10000.0,Vacation Funding,Solid credit history and verified stable income.,0
+01234567-89ab-4cde-ef01-23456789abcd,Mateo Martinez,2024-04-02,210500.8,850,50000.0,Home Improvement,Excellent credit score and low debt-to-income ratio.,0
+b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e,Isabella Hernandez,2023-06-25,33000.0,490,5000.0,Major Appliance Purchase,High risk due to poor credit history.,1
+c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f,Lucas Lopez,2022-10-18,68000.0,665,39000.0,Debt Consolidation,Debt-to-income ratio is acceptable but warrants monitoring.,0
+d3e4f5a6-b7c8-4d9e-a0f1-b2c3d4e5f6a7,Mia Gonzalez,2024-02-14,115000.0,755,41000.0,Business Startup Capital,Solid credit history and verified stable income.,1
+e4f5a6b7-c8d9-4e0f-b1a2-c3d4e5f6a7b8,Levi Wilson,2023-03-03,49000.0,605,18000.0,Wedding Expenses,Applicant meets the minimum requirements for consideration.,0
+f5a6b7c8-d9e0-4f1a-b2c3-d4e5f6a7b8c9,Charlotte Anderson,2023-09-22,130000.0,780,30000.0,New Car Purchase,Excellent credit score and low debt-to-income ratio.,0
+a6b7c8d9-e0f1-4a2b-c3d4-e5f6a7b8c9d0,Asher Thomas,2022-12-31,55000.0,590,28000.0,Debt Consolidation,High risk due to poor credit history.,1
+b7c8d9e0-f1a2-4b3c-d4e5-f6a7b8c9d0e1,Luna Taylor,2023-07-07,92000.0,715,49500.0,Home Improvement,Insufficient income for the requested loan amount.,1
+c8d9e0f1-a2b3-4c4d-e5f6-a7b8c9d0e1f2,James Moore,2024-05-01,195000.0,810,15000.0,Vacation Funding,Applicant presents a low-risk profile with strong financials.,0
+d9e0f1a2-b3c4-4d5e-f6a7-b8c9d0e1f2a3,Evelyn Jackson,2023-11-11,78000.0,690,33000.0,Educational Expenses,"Standard application, income verified.",0
+e0f1a2b3-c4d5-4e6f-a7b8-c9d0e1f2a3b4,Leo Martin,2022-08-08,41000.0,570,43000.0,Business Startup Capital,Multiple recent inquiries on credit report are a concern.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Williams,2023-05-15,85000.5,720,25000.0,Debt Consolidation,Applicant has a solid credit history and stable income.,0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Brown,2022-11-20,42000.0,580,15000.0,Car Purchase,Low credit score presents a significant risk.,1
+12345678-90ab-cdef-0123-456789abcdef,Susan Miller,2024-01-10,120000.75,780,48000.0,Home Improvement,Strong financial profile despite high loan request.,0
+fedcba98-7654-3210-fedc-ba9876543210,David Jones,2023-08-01,65000.0,670,45000.0,Business Investment,High loan amount relative to income is a concern.,1
+abcdef12-3456-7890-abcd-ef1234567890,Patricia Garcia,2022-09-30,38000.0,610,8000.0,Medical Expenses,"Standard risk profile, proceeding with review.",0
+550e8400-e29b-41d4-a716-446655440000,Robert Martinez,2024-03-22,210000.0,820,50000.0,Major Purchase,Applicant has an excellent credit history.,0
+11223344-5566-7788-99aa-bbccddeeff00,Linda Rodriguez,2023-12-05,49000.0,560,28000.0,Debt Consolidation,High debt-to-income ratio is a concern.,1
+aabbccdd-eeff-0011-2233-445566778899,James Smith,2023-02-18,95000.25,740,10000.0,Vacation,Solid credit score and manageable loan amount.,0
+f1e2d3c4-b5a6-9876-5432-10fedcba9876,Mary Hernandez,2022-07-11,180000.0,790,49500.0,Home Improvement,Applicant has an excellent credit history.,0
+09876543-21fe-dcba-0987-654321fedcba,John Lopez,2024-04-01,32000.0,450,12000.0,Medical Expenses,Low credit score presents a significant risk.,1
+74a4a5d4-5b5c-4e8e-9f9g-1h2i3j4k5l6m,William Gonzalez,2023-10-19,78000.0,710,22000.0,Car Purchase,"Standard risk profile, proceeding with review.",0
+b8b5b6e3-9c9d-4a1a-8f8g-7h6i5j4k3l2m,Elizabeth Wilson,2022-12-25,51000.0,620,42000.0,Debt Consolidation,High loan amount relative to income.,1
+c9c6c7f4-8d8e-4b2b-7g7h-6i5j4k3l2m1n,Richard Anderson,2023-06-08,135000.0,775,35000.0,Business Investment,Strong financial profile and clear loan purpose.,0
+d0d7d8g5-7e7f-4c3c-6h6i-5j4k3l2m1n0o,Barbara Thomas,2024-02-14,48000.0,640,5000.0,Major Purchase,Applicant shows a stable financial history.,0
+e1e8e9h6-6f6g-4d4d-5i5j-4k3l2m1n0o9p,Joseph Davis,2023-03-17,65000.0,660,38000.0,Home Improvement,"Standard risk profile, proceeding with review.",0
+f2f9f0i7-5g5h-4e5e-4j4k-3l2m1n0o9p8q,Jessica Johnson,2022-08-29,39000.0,590,20000.0,Debt Consolidation,Low credit score presents a significant risk.,1
+g3g0g1j8-4h4i-4f6f-3k3l-2m1n0o9p8q7r,Daniel Lee,2023-11-01,160000.0,780,48000.0,Business Investment,Strong financial profile despite high loan request.,0
+h4h1h2k9-3i3j-4g7g-2l2m-1n0o9p8q7r6s,Sarah Harris,2024-05-02,88000.0,720,18000.0,Car Purchase,Solid credit score and manageable loan amount.,0
+i5i2i3l0-2j2k-4h8h-1m1n-0o9p8q7r6s5t,Charles Clark,2023-09-12,55000.0,630,46000.0,Home Improvement,High debt-to-income ratio is a concern.,1
+j6j3j4m1-1k1l-4i9i-0n0o-9p8q7r6s5t4u,Karen Lewis,2022-10-03,240000.0,840,15000.0,Vacation,Applicant has an excellent credit history.,0
+f8a2b1c9-6b3e-4f8a-9d7c-1b2c3d4e5f6a,Mary Smith,2023-05-15,125430.5,780,25000.0,Home improvement project,Applicant has a strong credit history and stable income.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Robert Johnson,2022-11-20,45210.75,585,15000.0,Debt consolidation,Low credit score presents a significant repayment risk.,1
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Jennifer Williams,2024-01-10,85000.0,680,45000.0,"Major purchase (e.g., car, appliance)",Loan amount is high relative to annual income.,1
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Michael Brown,2023-08-01,70000.0,650,38000.0,Business startup costs,"Income is sufficient, but credit history has minor blemishes.",0
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Linda Jones,2022-09-05,38500.25,450,42000.0,Medical expenses,Low credit score presents a significant repayment risk.,1
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,David Garcia,2024-02-28,180000.0,820,49000.0,Debt consolidation,Loan amount is high relative to annual income.,0
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Susan Miller,2023-03-12,62000.0,690,10000.0,Vacation funding,"Standard application, no immediate red flags.",0
+a7b8c9d0-e1f2-3456-7890-bcdef1234567,Joseph Davis,2023-10-21,95000.0,710,30000.0,Home improvement project,"Standard application, no immediate red flags.",0
+b8c9d0e1-f2a3-4567-8901-cdef12345678,Sarah Rodriguez,2022-06-30,41000.0,595,20000.0,Educational expenses,Low credit score presents a significant repayment risk.,1
+c9d0e1f2-a3b4-5678-9012-def123456789,Charles Martinez,2024-04-01,210500.8,795,48500.0,Business startup costs,Loan amount is high relative to annual income.,0
+d0e1f2a3-b4c5-6789-0123-ef1234567890,Karen Hernandez,2023-01-18,55000.0,630,7500.0,Wedding financing,"Income is sufficient, but credit history has minor blemishes.",0
+e1f2a3b4-c5d6-7890-1234-f12345678901,Thomas Lopez,2022-12-03,32000.0,550,18000.0,Medical expenses,Low credit score presents a significant repayment risk.,1
+f2a3b4c5-d6e7-8901-2345-123456789012,Jessica Gonzalez,2023-07-22,110000.0,740,12000.0,"Major purchase (e.g., car, appliance)",Applicant has a strong credit history and stable income.,0
+a3b4c5d6-e7f8-9012-3456-234567890123,William Wilson,2023-09-14,78000.0,660,41000.0,Debt consolidation,Loan amount is high relative to annual income.,1
+b4c5d6e7-f8a9-0123-4567-345678901234,Patricia Anderson,2022-08-19,49500.0,610,25000.0,Home improvement project,Low credit score presents a significant repayment risk.,1
+c5d6e7f8-a9b0-1234-5678-456789012345,Richard Thomas,2024-03-05,150000.0,760,49500.0,Business startup costs,Loan amount is high relative to annual income.,0
+d6e7f8a9-b0c1-2345-6789-567890123456,Barbara Taylor,2023-06-11,88000.0,700,15000.0,Vacation funding,"Standard application, no immediate red flags.",0
+e7f8a9b0-c1d2-3456-7890-678901234567,John Moore,2022-10-02,42000.0,350,35000.0,Debt consolidation,Low credit score presents a significant repayment risk.,1
+f8a9b0c1-d2e3-4567-8901-789012345678,Elizabeth Jackson,2024-05-01,99000.0,725,22000.0,Educational expenses,"Standard application, no immediate red flags.",0
+a9b0c1d2-e3f4-5678-9012-890123456789,James Martin,2023-11-27,65000.0,640,43000.0,"Major purchase (e.g., car, appliance)",Loan amount is high relative to annual income.,1
+a1b2c3d4-e5f6-4a9b-8c7d-1e2f3a4b5c6d,Jennifer Smith,2023-10-22,42000.5,585,15000.0,Debt Consolidation,Low credit score is a primary concern.,1
+f7e6d5c4-b3a2-4f1e-9d8c-7b6a5f4e3d2c,Michael Johnson,2024-01-15,115000.75,750,48000.0,Home Improvement,Loan amount is high relative to annual income.,0
+1a2b3c4d-5e6f-4a9b-8c7d-6e5f4a3b2c1d,Emily Williams,2022-08-05,75000.0,680,25000.0,Car Purchase,Applicant meets all standard criteria.,0
+e1f2a3b4-c5d6-4e8f-9a0b-1c2d3e4f5a6b,David Brown,2023-05-30,35000.0,510,8000.0,Medical Expenses,Previous delinquencies noted on credit report.,1
+b1c2d3e4-f5a6-4b9c-8d7e-6f5a4b3c2d1e,Sarah Jones,2024-03-11,210000.0,810,50000.0,Business Investment,"Strong credit profile, low risk.",0
+c1d2e3f4-a5b6-4c9d-8e7f-7a6b5c4d3e2f,Christopher Garcia,2023-11-01,62000.25,640,41000.0,Debt Consolidation,Stable income but high debt-to-income ratio.,1
+d1e2f3a4-b5c6-4d9e-8f7a-8b6c5d4e3f2a,Jessica Martinez,2022-12-25,88000.0,710,30000.0,Major Purchase,Verified income and employment history.,0
+f1a2b3c4-d5e6-4f9a-8a7b-9c8d7e6f5a4b,Daniel Rodriguez,2023-09-18,,610,12000.0,Car Purchase,Credit history is short but clean.,0
+a2b3c4d5-e6f7-4a8b-9c7d-1e2f3a4b5c6e,Laura Wilson,2024-04-02,150000.0,790,35000.0,Home Improvement,"Strong credit profile, low risk.",0
+b2c3d4e5-f6a7-4b8c-9d7e-2f3a4b5c6d7f,James Anderson,2023-02-14,39000.9,560,45000.0,Business Investment,Low credit score and high loan amount present significant risk.,1
+c2d3e4f5-a6b7-4c8d-9e7f-3a4b5c6d7e8a,Amanda Thomas,2022-07-20,95000.0,720,22000.0,Vacation,Applicant meets all standard criteria.,0
+d2e3f4a5-b6c7-4d8e-9f7a-4b5c6d7e8f9b,Robert Taylor,2023-08-08,53000.0,605,18000.0,Debt Consolidation,Verified income and employment history.,0
+e2f3a4b5-c6d7-4e8f-9a7b-5c6d7e8f9a0c,Melissa Moore,2024-02-28,68000.5,660,39000.0,Education,Stable income but high debt-to-income ratio.,0
+f2a3b4c5-d6e7-4f8a-9b7c-6d7e8f9a0b1d,William Jackson,2022-10-10,31000.0,450,10000.0,Medical Expenses,Low credit score is a primary concern.,1
+a3b4c5d6-e7f8-4a7b-8c6d-7e8f9a0b1c2e,Heather Martin,2023-04-12,180000.0,820,49500.0,Home Improvement,Loan amount is high relative to annual income.,0
+b3c4d5e6-f7a8-4b7c-8d6e-8f9a0b1c2d3f,Matthew Lee,2023-01-05,82000.0,690,5000.0,Major Purchase,Applicant meets all standard criteria.,0
+c3d4e5f6-a7b8-4c7d-8e6f-9a0b1c2d3e4a,Nicole Perez,2022-06-01,55000.0,595,28000.0,Debt Consolidation,Previous delinquencies noted on credit report.,1
+d3e4f5a6-b7c8-4d7e-8f6a-0b1c2d3e4f5b,Kevin Scott,2023-12-19,135000.0,765,42000.0,Business Investment,Loan amount is high relative to annual income.,0
+e3f4a5b6-c7d8-4e7f-8a6b-1c2d3e4f5a6c,Stephanie Green,2024-05-01,45000.0,630,9500.0,Car Purchase,Credit history is short but clean.,0
+f3a4b5c6-d7e8-4f7a-8b6c-2d3e4f5a6b7d,Brian Adams,2023-07-07,71000.0,550,35000.0,Debt Consolidation,Low credit score is a primary concern.,1
+f47ac10b-58cc-4372-a567-0e02b2c3d479,Jennifer Smith,2023-03-15,85240.5,720,25000.0,Debt Consolidation,Low-risk profile with stable income.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Michael Williams,2022-11-01,42500.0,585,15000.0,Car Purchase,High risk due to low credit score.,1
+123e4567-e89b-12d3-a456-426614174000,Sarah Johnson,2024-01-20,125000.75,790,45000.0,Home Improvement,Loan amount is high relative to income.,1
+6ba7b810-9dad-11d1-80b4-00c04fd430c8,David Brown,2023-08-10,180000.0,810,48000.0,Business Loan,Strong applicant with excellent credit history.,0
+9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d,Patricia Jones,2022-09-05,38000.0,510,42500.0,Medical Expenses,High risk due to low credit score.,1
+3e4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c,Robert Garcia,2024-02-28,62000.0,660,20000.0,Debt Consolidation,Applicant meets minimum criteria for review.,0
+c8d9e0f1-a2b3-c4d5-e6f7-a8b9c0d1e2f3,Linda Miller,2023-05-18,95000.0,740,35000.0,Home Improvement,Low-risk profile with stable income.,0
+7f8e9d0c-1b2a-3c4d-5e6f-7a8b9c0d1e2f,James Davis,2022-12-24,51000.25,610,8000.0,Vacation,Applicant meets minimum criteria for review.,0
+b3c4d5e6-f7a8-b9c0-d1e2-f3a4b5c6d7e8,Mary Rodriguez,2023-10-30,31000.0,450,10000.0,Major Purchase,High risk due to low credit score.,1
+5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d,John Martinez,2024-03-01,78000.0,695,41000.0,Business Loan,Loan amount is high relative to income.,1
+f0e1d2c3-b4a5-6c7d-8e9f-0a1b2c3d4e5f,Susan Hernandez,2023-07-22,155000.0,825,50000.0,Home Improvement,,0
+4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a,William Lopez,2022-08-14,45000.0,595,39000.0,Debt Consolidation,High risk due to low credit score.,1
+a9b8c7d6-e5f4-a3b2-c1d0-e9f8a7b6c5d4,Jessica Gonzalez,2023-01-09,68000.0,680,22000.0,Car Purchase,Applicant meets minimum criteria for review.,0
+e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6,Richard Wilson,2023-11-11,210000.0,840,30000.0,Vacation,Strong applicant with excellent credit history.,0
+b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5,Elizabeth Taylor,2022-10-02,72000.5,710,43000.0,Education,Loan amount is high relative to income.,1
+6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d,Joseph Anderson,2024-04-05,55000.0,640,18000.0,Medical Expenses,Applicant meets minimum criteria for review.,0
+d2e3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7,Daniel Thomas,2023-06-19,99000.0,760,49000.0,Business Loan,Strong applicant with excellent credit history.,0
+8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f,Emily Jackson,2022-07-30,33000.0,550,5500.0,Major Purchase,High risk due to low credit score.,1
+3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8d,Matthew White,2023-09-12,110000.0,730,12000.0,Car Purchase,Low-risk profile with stable income.,0
+a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6,Olivia Harris,2024-02-14,65000.0,670,46000.0,Debt Consolidation,Loan amount is high relative to income.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45000.75,580,42500.5,Debt Consolidation,High risk due to low credit score.,1
+f1e2d3c4-b5a6-0987-6543-210987fedcba,Michael Williams,2022-11-20,120500.0,790,25000.0,Home Improvement,Strong credit profile and stable income.,0
+12345678-90ab-cdef-0123-456789abcdef,Linda Brown,2024-01-10,72000.25,670,38000.0,New Car Purchase,Moderate risk due to loan amount vs. income ratio.,0
+fedcba98-7654-3210-fedc-ba9876543210,Robert Jones,2023-08-01,38000.0,450,15000.0,Medical Expenses,Significant default risk identified.,1
+abcdef12-3456-7890-abcd-ef1234567890,Patricia Garcia,2022-09-05,95000.5,710,48000.75,Business Startup,Loan amount is disproportionate to reported income.,1
+09876543-21fe-dcba-0987-654321fedcba,John Miller,2024-02-28,180000.0,820,49500.0,Major Purchase,Applicant meets all primary lending criteria.,0
+65748392-abdc-1029-bdef-384756bfda01,Mary Davis,2023-03-12,65000.0,640,20000.0,Debt Consolidation,"Credit score is borderline, but income is sufficient.",0
+9821aebc-ff10-456a-b123-cdef4567890a,James Rodriguez,2022-12-25,42000.8,595,10000.0,Used Car Purchase,High risk due to low credit score.,1
+e4f5a6b7-c8d9-1a2b-3c4d-5e6f7a8b9c0d,William Martinez,2023-10-30,210000.0,845,45000.0,Home Improvement,Low risk profile with solid financial history.,0
+b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6,Elizabeth Hernandez,2023-07-19,88000.0,690,30000.0,Education Expenses,Further review of debt-to-income ratio recommended.,0
+cba98765-4321-fedc-ba98-76543210fedc,David Lopez,2022-10-11,32000.0,410,8000.0,Medical Expenses,Significant default risk identified.,1
+56473829-10ab-cdef-1234-567890abcdef,Barbara Gonzalez,2024-03-01,150000.0,760,15000.0,Vacation,Strong credit profile and stable income.,0
+7890abcd-ef12-3456-7890-abcdef123456,Richard Wilson,2023-01-22,59000.0,610,41000.0,Debt Consolidation,Loan amount is disproportionate to reported income.,1
+fedcba09-8765-4321-fedc-ba9876543210,Susan Anderson,2023-09-18,110000.0,730,22000.0,New Car Purchase,Applicant meets all primary lending criteria.,0
+11223344-5566-7788-99aa-bbccddeeff00,Joseph Thomas,2022-08-14,75000.9,665,35000.0,Home Improvement,Moderate risk due to loan amount vs. income ratio.,0
+aabbccdd-eeff-0011-2233-445566778899,Jessica Taylor,2024-04-02,48000.0,605,49000.0,Business Startup,Loan amount is disproportionate to reported income.,1
+ffeeddcc-bbaa-9988-7766-554433221100,Thomas Moore,2023-06-20,135000.0,740,30000.0,Major Purchase,Low risk profile with solid financial history.,0
+00112233-4455-6677-8899-aabbccddeeff,Sarah Jackson,2022-11-01,68000.0,650,28000.0,Debt Consolidation,"Credit score is borderline, but income is sufficient.",0
+99887766-5544-3322-1100-ffeeddccbbaa,Charles Martin,2023-12-15,41000.0,520,12000.0,Used Car Purchase,High risk due to low credit score.,1
+44556677-8899-aabb-ccdd-eeff00112233,Karen White,2024-02-14,92000.0,700,46000.0,Wedding Expenses,Loan amount is disproportionate to reported income.,1
+f9a8d7e6-c5b4-4a32-81d0-9e8f7a6b5c4d,Robert Martinez,2023-09-15,45231.88,589,48123.45,Debt Consolidation,High debt-to-income ratio raises concerns.,1
+1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e,Linda Williams,2022-11-20,189456.12,785,25000.0,Home Improvement,"Solid financial standing, low risk profile.",0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Michael Smith,2024-03-01,78542.99,690,15200.75,Car Purchase,"Verified employment and assets, recommend approval.",0
+6d7e8f9a-0b1c-4d5e-8f9a-0b1c2d3e4f5a,Jessica Brown,2023-05-10,38910.45,450,8500.0,Medical Expenses,Credit history shows recent delinquencies.,1
+e0f1a2b3-c4d5-4e6f-8a9b-0c1d2e3f4a5b,William Jones,2024-01-22,125678.9,810,45000.5,Business Loan,Loan amount is high relative to applicant's income.,0
+c5d6e7f8-a9b0-4c1d-8e2f-0a1b2c3d4e5f,Barbara Garcia,2022-08-30,62345.67,640,32000.0,Debt Consolidation,"Solid financial standing, low risk profile.",0
+f0a1b2c3-d4e5-4f6a-8b7c-9d8e0f1a2b3c,David Davis,2023-12-18,41234.56,520,42500.8,Major Purchase,High debt-to-income ratio raises concerns.,1
+2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e,Susan Rodriguez,2024-04-05,95123.45,730,20000.0,Home Improvement,Strong credit profile supports the loan amount.,0
+8c9d0e1f-2a3b-4c5d-8e6f-0a1b2c3d4e5f,Joseph Martinez,2023-07-25,32000.0,380,10000.0,Car Purchase,"Limited credit history, proceed with caution.",1
+d4e5f6a7-b8c9-4d0e-8f1a-2b3c4d5e6f7a,Jennifer Wilson,2022-10-11,210543.21,845,49500.0,Business Loan,Loan amount is high relative to applicant's income.,0
+7a8b9c0d-1e2f-4a3b-8c5d-6e7f8a9b0c1d,Richard Lopez,2023-02-14,88432.1,715,38000.0,Vacation,Applicant shows stable income and good credit history.,0
+3d4e5f6a-7b8c-4d9e-8f0a-1b2c3d4e5f6a,Patricia Johnson,2023-11-02,53210.98,595,22000.0,Medical Expenses,Credit history shows recent delinquencies.,1
+9e0f1a2b-3c4d-4e5f-8a6b-7c8d9e0f1a2b,James Hernandez,2024-05-01,155000.0,790,41000.0,Major Purchase,Loan amount is high relative to applicant's income.,0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e,Mary Miller,2022-12-25,48999.99,615,12500.0,Wedding Expenses,"Solid financial standing, low risk profile.",0
+b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6f,John Gonzalez,2023-08-08,35789.12,410,49000.0,Debt Consolidation,High debt-to-income ratio raises concerns.,1
+6f7a8b9c-0d1e-4f2a-8b3c-4d5e6f7a8b9c,Elizabeth Brown,2024-02-28,99500.0,745,19999.99,Student Loan Refinancing,Strong credit profile supports the loan amount.,0
+c3d4e5f6-a7b8-4c9d-8e0f-1a2b3c4d5e6f,Robert Williams,2023-06-19,75000.0,605,43500.0,Business Loan,Loan amount is high relative to applicant's income.,1
+d8e9f0a1-b2c3-4d4e-8f5a-6b7c8d9e0f1a,Linda Smith,2022-09-05,135000.0,760,30000.0,Home Improvement,Applicant shows stable income and good credit history.,0
+1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d,David Jones,2024-03-30,42000.0,555,18000.0,Car Purchase,Credit history shows recent delinquencies.,1
+4e5f6a7b-8c9d-4e0f-8a1b-2c3d4e5f6a7b,Jennifer Davis,2023-10-01,68000.0,685,5500.0,Vacation,"Solid financial standing, low risk profile.",0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Olivia Smith,2023-10-26,85000.5,720,25000.0,Debt Consolidation,Applicant has a stable income and good credit history.,0
+f6e5d4c3-b2a1-4f8e-9d0c-1b2a3f4e5d6c,Liam Johnson,2022-08-15,42000.75,580,15000.0,Car Financing,Low credit score is a significant concern.,1
+7g8h9i0j-k1l2-4m3n-o4p5-q6r7s8t9u0v1,Emma Williams,2024-01-05,120000.0,790,45000.0,Home Improvement,"High loan amount requested, but income is strong.",0
+w2x3y4z5-a6b7-4c8d-e9f0-1a2b3c4d5e6f,Noah Brown,2023-03-22,55000.0,640,41000.0,Business Loan,Loan amount is high relative to annual income.,1
+b3c4d5e6-f7a8-4b9c-8d0e-1f2a3b4c5d6e,Amelia Jones,2023-11-30,210000.25,810,30000.0,Major Purchase,Applicant has a strong credit history and high income.,0
+d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a,Oliver Garcia,2022-12-18,38000.0,520,8000.0,Medical Expenses,Very low credit score presents a high risk.,1
+g9h0i1j2-k3l4-4m5n-o6p7-q8r9s0t1u2v3,Ava Miller,2024-02-14,72000.0,680,22000.0,Debt Consolidation,"Standard risk profile, proceeding with review.",0
+w4x5y6z7-a8b9-4c0d-e1f2-a3b4c5d6e7f8,Elijah Davis,2023-07-01,95000.0,750,48000.0,Home Improvement,Loan amount exceeds 50% of annual income.,1
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e,Sophia Rodriguez,2022-09-09,61000.5,660,18000.0,Car Financing,Standard risk profile with moderate income.,0
+f6e5d4c3-b2a1-4f8e-9d0c-1b2a3f4e5d7d,Mateo Martinez,2023-05-12,33000.0,450,12000.0,Medical Expenses,Poor credit history and low income are red flags.,1
+7g8h9i0j-k1l2-4m3n-o4p5-q6r7s8t9u0v2,Charlotte Hernandez,2024-03-01,180000.0,830,49000.0,Business Loan,"Despite high loan amount, applicant is low risk.",0
+w2x3y4z5-a6b7-4c8d-e9f0-1a2b3c4d5e7g,Lucas Lopez,2023-06-20,78000.0,690,39000.0,Debt Consolidation,Debt-to-income ratio appears acceptable.,0
+b3c4d5e6-f7a8-4b9c-8d0e-1f2a3b4c5d7f,Isabella Gonzalez,2022-11-11,48000.0,610,43000.0,Major Purchase,High risk due to large loan on a modest income.,1
+d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f0b,Leo Wilson,2023-09-05,135000.0,760,15000.0,Vacation,Applicant profile is strong and poses minimal risk.,0
+g9h0i1j2-k3l4-4m5n-o6p7-q8r9s0t1u2v4,Mia Anderson,2024-04-10,59000.0,595,10000.0,Education,"Credit score is borderline, requires manual review.",1
+w4x5y6z7-a8b9-4c0d-e1f2-a3b4c5d6e7f9,Henry Thomas,2022-07-29,92000.0,710,28000.0,Home Improvement,"Solid applicant, approved for automated processing.",0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c6f,Luna Taylor,2023-02-17,65000.0,630,35000.0,Debt Consolidation,"Standard risk profile, proceeding with review.",0
+f6e5d4c3-b2a1-4f8e-9d0c-1b2a3f4e5d8e,Theodore Moore,2023-12-03,41000.0,540,20000.0,Car Financing,High risk profile due to low credit score.,1
+7g8h9i0j-k1l2-4m3n-o4p5-q6r7s8t9u0v3,Evelyn Jackson,2022-10-21,165000.0,780,49500.0,Major Purchase,Loan is large but well-supported by income and credit.,0
+w2x3y4z5-a6b7-4c8d-e9f0-1a2b3c4d5e8h,James Martin,2024-05-02,88000.0,670,42500.0,Business Loan,High loan amount for this income level.,1
+a1b2c3d4-e5f6-4a9b-8c7d-1e2f3a4b5c6d,Jennifer Smith,2023-05-15,45000.75,585,15200.5,Debt Consolidation,Low credit score poses a significant risk.,1
+f1e2d3c4-b5a6-4f9e-8d7c-6b5a4f3e2d1c,Michael Johnson,2024-01-22,125000.0,780,48500.0,Home Improvement,The requested loan amount is high relative to income.,1
+9a8b7c6d-5e4f-4d3c-b2a1-0f9e8d7c6b5a,Mary Williams,2022-11-10,78000.5,690,25000.0,Car Purchase,"Standard application, meets all primary criteria.",0
+1b2c3d4e-5f6a-4b9c-8d7e-9f0a1b2c3d4e,David Brown,2023-08-01,32000.0,450,8000.0,Medical Expenses,Low credit score and low income present a high risk.,1
+c3d4e5f6-a7b8-4c9d-8e7f-6a5b4c3d2e1f,Patricia Jones,2024-03-22,180000.25,810,35000.0,Business Loan,Applicant has a strong credit history and stable income.,0
+4e5f6a7b-8c9d-4e8f-9a6b-5c4d3e2f1a0b,Robert Garcia,2023-02-18,95000.0,715,41000.75,Debt Consolidation,The requested loan amount is high relative to income.,1
+d6e7f8a9-b0c1-4d2e-b3f4-a5b6c7d8e9f0,Linda Miller,2023-09-05,62000.0,640,18000.0,Major Purchase,"Income is sufficient, but credit history has minor issues.",0
+7f8a9b0c-1d2e-4f3a-8b9c-0d1e2f3a4b5c,William Davis,2024-04-30,210000.0,835,49500.0,Home Improvement,"High loan amount, but strong income and credit score mitigate risk.",0
+a9b0c1d2-e3f4-4a5b-b6c7-d8e9f0a1b2c3,Elizabeth Rodriguez,2022-12-25,41000.0,550,12000.0,Vacation,Low credit score poses a significant risk.,1
+0c1d2e3f-4a5b-4b6c-8d7e-9f0a1b2c3d4e,Joseph Martinez,2023-07-11,88000.8,705,30000.0,Car Purchase,"Standard application, meets all primary criteria.",0
+e3f4a5b6-c7d8-4e9f-a0b1-c2d3e4f5a6b7,Susan Hernandez,2023-11-02,53000.0,610,22000.0,Debt Consolidation,"Income is sufficient, but credit history has minor issues.",0
+5a6b7c8d-9e0f-4a1b-8c2d-3e4f5a6b7c8d,Richard Lopez,2024-02-14,145000.0,760,42000.0,Business Loan,The requested loan amount is high relative to income.,0
+8d9e0f1a-2b3c-4d4e-b5f6-a7b8c9d0e1f2,Barbara Gonzalez,2023-06-20,35000.0,595,9500.0,Medical Expenses,Low credit score poses a significant risk.,1
+f1a2b3c4-d5e6-4f7a-9b8c-7d6e5f4a3b2c,John Wilson,2024-05-01,110000.0,730,38000.0,Home Improvement,Applicant has a strong credit history and stable income.,0
+2c3d4e5f-6a7b-4c8d-ae9f-0a1b2c3d4e5f,Jessica Anderson,2022-10-19,72000.0,670,19000.0,Wedding Expenses,"Standard application, meets all primary criteria.",0
+5f6a7b8c-9d0e-4f1a-8b2c-3d4e5f6a7b8c,Charles Thomas,2023-04-08,49000.5,605,43000.0,Car Purchase,The requested loan amount is high relative to income.,1
+b8c9d0e1-f2a3-4b4c-9d5e-6f7a8b9c0d1e,Sarah Taylor,2023-12-01,165000.0,795,50000.0,Major Purchase,"High loan amount, but strong income and credit score mitigate risk.",0
+d0e1f2a3-b4c5-4d6e-bf7a-8b9c0d1e2f3a,Thomas Moore,2024-01-15,30500.0,510,5500.0,Debt Consolidation,Low credit score and low income present a high risk.,1
+f2a3b4c5-d6e7-4f8a-9b9c-0d1e2f3a4b5c,Karen Garcia,2023-03-29,85000.0,680,28000.0,Education,"Income is sufficient, but credit history has minor issues.",0
+4b5c6d7e-8f9a-4a0b-bc1d-2e3f4a5b6c7d,James Martinez,2022-09-12,130000.0,740,15000.0,Vacation,Applicant has a strong credit history and stable income.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-10-26,85000.5,720,25000.0,Debt Consolidation,Applicant has a strong credit history.,0
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Williams,2022-08-15,42000.0,580,15000.0,Car Purchase,Low credit score presents a significant risk.,1
+12345678-90ab-cdef-0123-456789abcdef,David Brown,2024-01-20,150000.75,790,45000.0,Home Improvement,Loan amount is high relative to applicant's income.,1
+fedcba98-7654-3210-fedc-ba9876543210,Susan Jones,2023-05-11,65000.0,650,30000.0,Medical Expenses,Standard risk profile identified for this application.,0
+abcdef01-2345-6789-abcd-ef0123456789,Robert Garcia,2022-11-30,35000.25,510,8000.0,Major Purchase,Application flagged for high default probability.,1
+09876543-21fe-dcba-0987-654321fedcba,Linda Miller,2023-02-18,220000.0,810,48000.0,Business Loan,"High loan amount, but income and credit are excellent.",0
+aabbccdd-eeff-0011-2233-445566778899,William Davis,2024-03-01,78000.0,690,20000.0,Debt Consolidation,Solid applicant with a good debt-to-income ratio.,0
+ffeeddcc-bbaa-9988-7766-554433221100,Jessica Rodriguez,2023-09-05,51000.0,610,42000.0,Home Improvement,High loan amount requested on a moderate income.,1
+11223344-5566-7788-99aa-bbccddeeff00,Joseph Martinez,2022-07-22,95000.0,740,10000.0,Vacation,Low risk application with strong financials.,0
+65b4a3c2-d1e0-f987-6543-210fedcba987,Patricia Hernandez,2023-12-12,39000.0,595,18000.0,Car Purchase,Borderline credit score requires further review.,1
+7890abcd-ef01-2345-6789-abcdef012345,James Lopez,2024-04-10,180000.0,780,50000.0,Debt Consolidation,"Maximum loan amount requested, poses moderate risk.",0
+cdef0123-4567-89ab-cdef-0123456789ab,Mary Gonzalez,2023-06-25,62000.0,670,22000.0,Student Loan Refinancing,Standard risk profile identified for this application.,0
+543210fe-dcba-9876-5432-10fedcba9876,John Wilson,2022-10-02,45000.5,550,25000.0,Medical Expenses,Low credit score presents a significant risk.,1
+9876fedc-ba98-7654-3210-fedcba987654,Barbara Johnson,2023-08-19,110000.0,760,35000.0,Home Improvement,Applicant has an excellent credit history.,0
+456789ab-cdef-0123-4567-89abcdef0123,Richard Taylor,2024-02-28,31000.0,450,5000.0,Major Purchase,Very high risk profile due to low income and credit.,1
+fedcba09-8765-4321-fedc-ba0987654321,Elizabeth Moore,2023-03-15,99000.0,710,41000.0,Debt Consolidation,Loan flagged due to high amount requested.,1
+abcdef12-3456-7890-abcd-ef1234567890,Thomas Anderson,2022-12-01,75000.0,680,12000.0,Car Purchase,Standard risk profile identified for this application.,0
+10293847-56af-becd-1029-384756afbecd,Maria Jackson,2024-05-01,250000.0,830,49000.0,Business Loan,"Top-tier applicant, but loan amount is at the maximum.",0
+b0c9d8e7-f6a5-4321-b0c9-d8e7f6a54321,Charles White,2023-07-07,58000.0,630,39000.0,Home Improvement,Loan amount is high relative to applicant's income.,0
+a1b3c5d7-e9f0-1234-a1b3-c5d7e9f01234,Nancy Harris,2022-09-14,48000.0,590,43000.0,Debt Consolidation,Application flagged for high default probability.,1
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Olivia Johnson,2023-05-15,145000.5,780,25000.0,Home Improvement,Applicant has a strong credit history and stable income.,0
+b2c3d4e5-f6a7-8901-2345-67890abcdef1,Liam Smith,2022-11-20,42000.75,585,15000.0,Debt Consolidation,Low credit score is a significant risk factor.,1
+c3d4e5f6-a7b8-9012-3456-7890abcdef12,Noah Williams,2024-01-10,78000.0,690,48000.0,Car Purchase,High loan-to-income ratio noted.,1
+d4e5f6a7-b8c9-0123-4567-890abcdef123,Emma Brown,2023-08-01,210000.25,820,35000.0,Major Purchase,Applicant has a strong credit history and stable income.,0
+e5f6a7b8-c9d0-1234-5678-90abcdef1234,Oliver Jones,2022-09-05,55000.0,610,42500.5,Business Loan,High loan-to-income ratio noted.,1
+f6a7b8c9-d0e1-2345-6789-0abcdef12345,Ava Garcia,2024-02-28,38000.9,450,8000.0,Medical Expenses,Low credit score is a significant risk factor.,1
+0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d,William Miller,2023-12-12,95000.0,710,12000.0,Vacation,Verified employment and income meet requirements.,0
+1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e,Sophia Davis,2023-03-21,180000.0,795,49500.0,Home Improvement,High loan-to-income ratio noted.,0
+2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f,James Rodriguez,2022-07-30,62000.5,640,20000.0,Debt Consolidation,Credit score is borderline but income is sufficient.,0
+3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f80,Isabella Martinez,2024-04-01,48000.0,590,41000.0,Car Purchase,Low credit score is a significant risk factor.,1
+4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8091,Benjamin Hernandez,2023-10-18,110000.0,730,30000.0,Wedding Expenses,Applicant has a strong credit history and stable income.,0
+5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8091a2,Mia Lopez,2022-06-14,33000.0,520,18000.0,Education Loan,Low credit score is a significant risk factor.,1
+6a7b8c9d-0e1f-2a3b-4c5d-6e7f8091a2b3,Lucas Gonzalez,2023-01-25,89000.8,685,46000.0,Business Loan,High loan-to-income ratio noted.,1
+7b8c9d0e-1f2a-3b4c-5d6e-7f8091a2b3c4,Harper Wilson,2023-09-09,130000.0,750,22000.0,Major Purchase,Applicant has a strong credit history and stable income.,0
+8c9d0e1f-2a3b-4c5d-6e7f-8091a2b3c4d5,Evelyn Anderson,2022-12-01,71000.0,660,39000.0,Home Improvement,High loan-to-income ratio noted.,0
+9d0e1f2a-3b4c-5d6e-7f80-91a2b3c4d5e6,Alexander Thomas,2024-03-17,235000.0,845,49900.0,Car Purchase,Applicant has a strong credit history and stable income.,0
+0e1f2a3b-4c5d-6e7f-8091-a2b3c4d5e6f7,Charlotte Taylor,2023-06-22,59000.0,625,10000.0,Medical Expenses,Credit score is borderline but income is sufficient.,0
+1f2a3b4c-5d6e-7f80-91a2-b3c4d5e6f708,Henry Moore,2022-10-03,41000.0,555,25000.0,Debt Consolidation,Low credit score is a significant risk factor.,1
+2a3b4c5d-6e7f-8091-a2b3-c4d5e6f70819,Amelia Jackson,2023-11-08,105000.0,700,47000.0,Major Purchase,High loan-to-income ratio noted.,1
+3b4c5d6e-7f80-91a2-b3c4-d5e6f708192a,Elijah Martin,2024-02-05,68000.0,675,15000.0,Vacation,Credit score is borderline but income is sufficient.,0
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,Jennifer Williams,2023-04-15,45200.75,580,41500.0,Debt Consolidation,High risk due to low credit score and high loan amount.,1
+f6e5d4c3-b2a1-4f0e-9d8c-7b6a5f4e3d2c,Michael Johnson,2022-11-20,155000.0,790,25000.0,Home Improvement,Solid credit profile and low debt-to-income ratio.,0
+1a2b3c4d-5e6f-4789-a0b1-c2d3e4f5a6b7,Emily Brown,2024-01-05,78000.5,695,15000.0,Car Purchase,Applicant has a stable income source.,0
+b7a6f5e4-d3c2-410a-b987-654321fedcba,Christopher Davis,2023-08-22,38500.0,520,8000.0,Medical Expenses,Credit history shows several late payments.,1
+c8d9e0f1-a2b3-4c5d-8e9f-0a1b2c3d4e5f,Jessica Martinez,2022-09-30,95000.0,720,48000.0,Business Investment,Loan amount is high relative to annual income.,1
+d9e0f1a2-b3c4-4d5e-8f9a-0b1c2d3e4f5a,David Rodriguez,2023-06-18,62000.0,640,22000.0,Debt Consolidation,Verified employment and consistent payment history.,0
+e0f1a2b3-c4d5-4e5f-8a9b-0c1d2e3f4a5b,Sarah Garcia,2024-03-11,210000.0,810,49500.0,Major Purchase,Strong financial standing with significant assets.,0
+f1a2b3c4-d5e6-4f5a-8b9c-0d1e2f3a4b5c,Daniel Miller,2022-12-01,49000.9,610,18000.0,Car Purchase,Applicant has a stable income source.,0
+a2b3c4d5-e6f7-4a5b-8c9d-0e1f2a3b4c5d,Linda Jones,2023-10-02,32000.0,450,10000.0,Medical Expenses,High risk due to low credit score and short credit history.,1
+b3c4d5e6-f7a8-4b5c-8d9e-0f1a2b3c4d5e,Robert Smith,2024-02-28,125000.0,765,35000.0,Home Improvement,Solid credit profile and low debt-to-income ratio.,0
+c4d5e6f7-a8b9-4c5d-8e9f-0a1b2c3d4e5f,Patricia Brown,2023-03-14,88000.0,710,7500.0,Vacation,Purpose of loan is well-defined and reasonable.,0
+d5e6f7a8-b9c0-4d5e-8f9a-0b1c2d3e4f5a,John Williams,2022-07-19,53000.0,595,28000.0,Debt Consolidation,Credit history shows several late payments.,1
+e6f7a8b9-c0d1-4e5f-8a9b-0c1d2e3f4a5b,Mary Johnson,2023-09-05,180000.0,820,45000.0,Business Investment,Loan amount is high relative to annual income.,0
+f7a8b9c0-d1e2-4f5a-8b9c-0d1e2f3a4b5c,James Davis,2024-05-01,68000.25,670,12000.0,Car Purchase,Applicant has a stable income source.,0
+a8b9c0d1-e2f3-4a5b-8c9d-0e1f2a3b4c5d,Elizabeth Garcia,2022-10-10,41000.0,550,43000.0,Debt Consolidation,High risk due to low credit score and high loan amount.,1
+b9c0d1e2-f3a4-4b5c-8d9e-0f1a2b3c4d5e,William Martinez,2023-12-25,99000.0,730,30000.0,Home Improvement,Solid credit profile and low debt-to-income ratio.,0
+c0d1e2f3-a4b5-4c5d-8e9f-0a1b2c3d4e5f,Susan Miller,2023-01-30,35500.0,605,6000.0,Major Purchase,Applicant has a limited credit history.,0
+d1e2f3a4-b5c6-4d5e-8f9a-0b1c2d3e4f5a,Richard Jones,2022-08-11,72000.0,680,41000.0,Business Investment,Loan amount is high relative to annual income.,0
+e2f3a4b5-c6d7-4e5f-8a9b-0c1d2e3f4a5b,Karen Rodriguez,2023-07-07,48000.0,590,19000.0,Debt Consolidation,High risk due to low credit score.,1
+f3a4b5c6-d7e8-4f5a-8b9c-0d1e2f3a4b5c,Thomas Smith,2024-04-20,165000.0,795,49999.0,Major Purchase,Strong financial standing with significant assets.,0
+f47ac10b-58cc-4372-a567-0e02b2c3d479,Jennifer Williams,2023-01-15,45000.75,580,25000.0,Debt Consolidation,"Applicant has a low credit score, posing a significant risk.",1
+6ba7b810-9dad-11d1-80b4-00c04fd430c8,Michael Smith,2022-11-20,125000.5,780,48000.0,Business Investment,The requested loan amount is high relative to the applicant's profile.,1
+123e4567-e89b-12d3-a456-426614174000,Emily Jones,2023-08-05,85000.0,710,15000.0,Home Improvement,"Standard application, requires standard due diligence.",0
+a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11,David Brown,2022-03-12,180000.25,820,35000.0,Major Purchase,Strong applicant profile with high income and excellent credit.,0
+347552a8-4357-4959-8422-773a4b9f5a0a,Sarah Davis,2023-10-01,52000.0,610,10000.0,Car Financing,Application meets standard criteria; cleared for processing.,0
+982c2a9d-4340-41a4-9988-163e77e20d7a,James Wilson,2022-07-28,38000.9,550,45000.0,Medical Expenses,High loan amount and low credit score present a considerable risk.,1
+e4a7b2d0-6c8e-4a63-8f9b-1e2c3d4f5a6b,Linda Martinez,2023-05-19,95000.0,730,20000.0,Vacation,Solid application with good credit and income.,0
+f8c3d1a2-5b6e-4f7d-8c9a-0b1d2e3f4a5b,Robert Garcia,2022-01-30,65000.0,640,30000.0,Debt Consolidation,"Standard application, requires standard due diligence.",0
+b4e3c2d1-a5f6-4e7d-8c9a-0b1d2e3f4a5c,Patricia Rodriguez,2023-09-11,31000.5,490,8000.0,Emergency Fund,"Applicant has a poor credit history, posing a high risk.",1
+d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a,John Hernandez,2022-12-25,210000.0,850,49500.0,Real Estate Investment,The large loan is justified by the applicant's excellent profile.,0
+c3b2a1d4-e5f6-4c7d-8a9b-0c1d2e3f4a5b,Mary Lopez,2023-02-08,72000.0,680,18000.0,Home Improvement,Application meets standard criteria; cleared for processing.,0
+a1b2c3d4-e5f6-4a7d-8c9b-0d1e2f3a4b5c,William Gonzalez,2022-06-17,58000.0,620,41000.0,Business Startup,Loan amount is very high for the reported income level.,1
+e5f6a1b2-c3d4-4b7d-8e9f-0a1b2c3d4e5f,Elizabeth Perez,2023-04-03,110000.0,750,22000.0,Car Financing,Strong candidate with excellent financial standing.,0
+b2c3d4e5-f6a1-4c7d-8e9f-0a1b2c3d4e5f,Joseph Sanchez,2022-10-09,41000.0,590,12000.0,Debt Consolidation,"Applicant has a low credit score, posing a significant risk.",1
+d4e5f6a1-b2c3-4d7e-8f9a-0b1c2d3e4f5a,Jessica Rivera,2023-07-21,98000.0,720,38000.0,Major Purchase,"Standard application, requires standard due diligence.",0
+a4b5c6d7-e8f9-4a0b-8c1d-2e3f4a5b6c7d,Christopher Moore,2022-04-14,155000.0,790,50000.0,Home Renovation,The requested loan amount is high relative to the applicant's profile.,0
+f9e8d7c6-b5a4-4987-8f6e-5d4c3b2a1f0e,Amanda Taylor,2023-06-30,62000.0,660,9000.0,Medical Expenses,Application meets standard criteria; cleared for processing.,0
+1a2b3c4d-5e6f-4123-890a-bcdef1234567,Daniel Anderson,2022-09-01,49000.0,520,28000.0,Debt Consolidation,"Applicant has a poor credit history, posing a high risk.",1
+7e6f5d4c-3b2a-4f0e-8d7c-6b5a4f9e8d7c,Melissa Thomas,2023-03-22,135000.0,765,15000.0,Vacation,Strong candidate with excellent financial standing.,0
+cba98765-4321-4fed-ba09-87654321fedc,Matthew Jackson,2022-08-18,88000.0,690,43000.0,Business Investment,Loan amount is very high for the reported income level.,1
+a1b2c3d4-e5f6-4a01-b8c9-d0e1f2a3b4c5,Olivia Smith,2023-10-26,175430.55,821,25000.0,Home Improvement,Credit history is excellent.,0
+b2c3d4e5-f6a7-4b02-c9d0-e1f2a3b4c5d6,Liam Johnson,2022-08-15,38250.9,515,45100.2,Debt Consolidation,High loan amount requested relative to income.,1
+c3d4e5f6-a7b8-4c03-d0e1-f2a3b4c5d6e7,Emma Williams,2024-01-05,89500.0,690,32000.0,Car Purchase,Further review of credit history required.,0
+d4e5f6a7-b8c9-4d04-e1f2-a3b4c5d6e7f8,Noah Brown,2023-08-21,42100.75,595,10000.0,Medical Expenses,Applicant has a limited credit history.,1
+e5f6a7b8-c9d0-4e05-f2a3-b4c5d6e7f8g9,Amelia Jones,2022-11-30,210300.25,790,48500.0,Business Startup,"Low risk profile, recommend approval.",0
+f6a7b8c9-d0e1-4f06-a3b4-c5d6e7f8g9h0,Oliver Garcia,2023-05-19,65400.0,610,39000.5,Major Purchase,Some late payments noted in the past.,0
+a7b8c9d0-e1f2-4a07-b4c5-d6e7f8g9h0i1,Ava Miller,2024-02-11,31200.8,450,8000.0,Emergency Fund,"High risk profile, proceed with caution.",1
+b8c9d0e1-f2a3-4b08-c5d6-e7f8g9h0i1j2,Elijah Davis,2022-09-01,125600.0,745,41500.0,Home Improvement,Income to debt ratio is favorable.,0
+c9d0e1f2-a3b4-4c09-d6e7-f8g9h0i1j2k3,Sophia Rodriguez,2023-12-08,95000.0,655,49000.0,Debt Consolidation,High loan amount requested relative to income.,1
+d0e1f2a3-b4c5-4d0a-e7f8-g9h0i1j2k3l4,Mateo Martinez,2023-03-25,52300.4,630,15000.0,Car Purchase,Further review of credit history required.,0
+e1f2a3b4-c5d6-4e0b-f8g9-h0i1j2k3l4m5,Isabella Hernandez,2022-07-14,198750.0,840,49500.0,Business Startup,Applicant shows strong financial stability.,0
+f2a3b4c5-d6e7-4f0c-g9h0-i1j2k3l4m5n6,Lucas Lopez,2024-04-01,33500.0,540,7500.0,Medical Expenses,Applicant has a limited credit history.,1
+a3b4c5d6-e7f8-4a0d-h0i1-j2k3l4m5n6o7,Mia Gonzalez,2023-01-18,78900.5,680,28000.0,Tuition Fees,Income to debt ratio is favorable.,0
+b4c5d6e7-f8g9-4b0e-i1j2-k3l4m5n6o7p8,Levi Wilson,2022-10-02,45000.0,599,41000.0,Debt Consolidation,"High risk profile, proceed with caution.",1
+c5d6e7f8-g9h0-4c0f-j2k3-l4m5n6o7p8q9,Charlotte Anderson,2023-06-22,145000.0,760,44000.0,Home Improvement,"Low risk profile, recommend approval.",0
+d6e7f8g9-h0i1-4d10-k3l4-m5n6o7p8q9r0,Asher Thomas,2023-11-07,62000.0,640,22000.0,Major Purchase,Further review of credit history required.,0
+e7f8g9h0-i1j2-4e11-l4m5-n6o7p8q9r0s1,Luna Taylor,2022-06-09,30500.0,380,5500.0,Emergency Fund,"High risk profile, proceed with caution.",1
+f8g9h0i1-j2k3-4f12-m5n6-o7p8q9r0s1t2,James Moore,2024-03-14,180000.0,795,35000.0,Business Startup,Applicant shows strong financial stability.,0
+a9h0i1j2-k3l4-4a13-n6o7-p8q9r0s1t2u3,Evelyn Jackson,2023-09-30,58500.88,580,30000.0,Debt Consolidation,Some late payments noted in the past.,1
+b0i1j2k3-l4m5-4b14-o7p8-q9r0s1t2u3v4,Leo Martin,2022-12-25,99999.99,710,49999.99,Home Improvement,Income to debt ratio is favorable.,0
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Jennifer Smith,2023-05-15,45200.75,585,15000.0,Car Purchase,High-risk profile due to low credit score; requires further review.,1
+f0e9d8c7-b6a5-4321-fedc-ba9876543210,Michael Johnson,2022-11-20,185000.5,810,48000.0,Home Improvement,Applicant shows excellent credit history and financial stability.,0
+11223344-5566-7788-99aa-bbccddeeff00,Linda Williams,2024-01-10,85000.0,715,25000.0,Debt Consolidation,Solid credit profile with consistent payment history.,0
+ccddeeff-0011-2233-4455-66778899aabb,Robert Brown,2023-08-01,38000.25,450,49500.0,Business Loan,High-risk profile due to low credit score; requires further review.,1
+99887766-5544-3322-1100-ffeeddccbbaa,Patricia Jones,2022-09-25,125000.0,760,10000.0,Vacation,Applicant shows excellent credit history and financial stability.,0
+abcdef12-3456-7890-abcd-ef1234567890,James Garcia,2023-02-18,65000.0,680,38000.0,Medical Expenses,"Acceptable credit risk, recommend standard verification.",0
+09876543-21fe-dcba-0987-654321fedcba,Mary Miller,2024-03-05,210000.5,790,49000.0,Major Purchase,Applicant shows excellent credit history and financial stability.,0
+fedcba98-7654-3210-fedc-ba9876543210,John Davis,2023-10-30,52000.0,595,20000.0,Educational Expenses,High-risk profile due to low credit score; requires further review.,1
+5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d,Barbara Rodriguez,2022-12-12,95000.0,730,42000.0,Home Improvement,Solid credit profile with consistent payment history.,1
+f1e2d3c4-b5a6-9876-5432-10fedcba9876,William Martinez,2023-07-22,78000.0,655,18000.0,Car Purchase,"Acceptable credit risk, recommend standard verification.",0
+1234abcd-ef56-7890-1234-abcdef123456,Elizabeth Hernandez,2022-08-14,31000.0,510,8000.0,Medical Expenses,High-risk profile due to low credit score; requires further review.,1
+cba98765-4321-fedc-ba98-76543210fedc,David Lopez,2024-02-28,145000.0,780,35000.0,Debt Consolidation,Applicant shows excellent credit history and financial stability.,0
+78901234-5678-90ab-cdef-1234567890ab,Susan Gonzalez,2023-04-01,48000.0,610,12000.0,Major Purchase,"Acceptable credit risk, recommend standard verification.",0
+ab12cd34-ef56-ab78-cd90-ef12ab34cd56,Joseph Wilson,2022-10-05,99000.0,690,46000.0,Business Loan,"Acceptable credit risk, recommend standard verification.",1
+1a2b3c4d-5e6f-7a8b-9c0d-1a2b3c4d5e6f,Jessica Anderson,2023-09-11,160000.0,825,50000.0,Home Improvement,Applicant shows excellent credit history and financial stability.,0
+6f5e4d3c-2b1a-0d9c-8b7a-6f5e4d3c2b1a,Thomas Taylor,2024-01-02,62000.0,640,22000.0,Vacation,"Acceptable credit risk, recommend standard verification.",0
+987fedcba-1098-7654-3210-fedcba987654,Sarah Moore,2023-06-19,41000.0,550,41500.0,Car Purchase,High-risk profile due to low credit score; requires further review.,1
+10203040-5060-7080-90a0-b0c0d0e0f000,Charles Jackson,2022-07-07,115000.0,745,30000.0,Debt Consolidation,Solid credit profile with consistent payment history.,0
+aabbccdd-eeff-0011-2233-445566778899,Karen Martin,2023-12-01,88000.0,670,7500.0,Educational Expenses,"Acceptable credit risk, recommend standard verification.",0
+fedcba09-8765-4321-0fed-cba987654321,Richard Thomas,2024-04-01,240000.0,840,49500.0,Major Purchase,Applicant shows excellent credit history and financial stability.,0
